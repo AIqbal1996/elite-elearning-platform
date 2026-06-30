@@ -1,0 +1,105 @@
+[
+  {
+    "id": "advanced-analytics-ai",
+    "category": "Advanced Analytics & AI",
+    "capabilities": [
+      "AI Services"
+    ],
+    "skills": [
+      "Data Science",
+      "AL/Gen AI"
+    ],
+    "courseCount": 0,
+    "assessmentCount": 7
+  },
+  {
+    "id": "bi-visualization",
+    "category": "BI & Visualization",
+    "capabilities": [
+      "Deep Insights & Analytics"
+    ],
+    "skills": [
+      "Power BI",
+      "Tableau",
+      "Looker",
+      "Power Platform",
+      "PowerApps"
+    ],
+    "courseCount": 16,
+    "assessmentCount": 8
+  },
+  {
+    "id": "big-data-distributed-processing",
+    "category": "Big Data & Distributed Processing",
+    "capabilities": [
+      "Data Engineering & Modernization"
+    ],
+    "skills": [
+      "Big Data",
+      "Confluent Kafka",
+      "Airflow + AWS"
+    ],
+    "courseCount": 2,
+    "assessmentCount": 0
+  },
+  {
+    "id": "cloud-data-stacks",
+    "category": "Cloud Data Stacks",
+    "capabilities": [
+      "Data Engineering & Modernization"
+    ],
+    "skills": [
+      "AWS Data Stack",
+      "Azure Data Stack",
+      "GCP Data Stack"
+    ],
+    "courseCount": 93,
+    "assessmentCount": 12
+  },
+  {
+    "id": "data-architecture-modeling",
+    "category": "Data Architecture & Modeling",
+    "capabilities": [
+      "Data Strategy and AI Advisory"
+    ],
+    "skills": [
+      "Data Architecture",
+      "Data Modelling"
+    ],
+    "courseCount": 87,
+    "assessmentCount": 7
+  },
+  {
+    "id": "data-platforms-warehouses",
+    "category": "Data Platforms & Warehouses",
+    "capabilities": [
+      "Data Engineering & Modernization"
+    ],
+    "skills": [
+      "Snowflake",
+      "Mongo DB",
+      "BigQuery",
+      "MS Fabric",
+      "SQL",
+      "Azure DataBricks"
+    ],
+    "courseCount": 28,
+    "assessmentCount": 20
+  },
+  {
+    "id": "programming-query-languages",
+    "category": "Programming & Query Languages",
+    "capabilities": [
+      "AI Services",
+      "DataOps & MLOps"
+    ],
+    "skills": [
+      "Python",
+      "R",
+      "Spark & Scala",
+      "pySpark"
+    ],
+    "courseCount": 43,
+    "assessmentCount": 26
+  }
+]

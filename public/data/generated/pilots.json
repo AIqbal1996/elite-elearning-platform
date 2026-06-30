@@ -1,0 +1,163 @@
+[
+  {
+    "id": "pilot-1-0-q-a-chatbot-for-pdf-using-llm-and-rag",
+    "techStack": "Gen AI",
+    "sno": 1,
+    "useCase": "Q&A Chatbot for pdf using LLM and RAG",
+    "status": "Completed"
+  },
+  {
+    "id": "pilot-2-0-ml-based-demand-forecast-utility",
+    "techStack": "Data science",
+    "sno": 2,
+    "useCase": "ML Based Demand Forecast Utility",
+    "status": "Completed"
+  },
+  {
+    "id": "pilot-3-0-q-a-bot-for-web-scraping-using-rag-pipeline",
+    "techStack": "Gen AI",
+    "sno": 3,
+    "useCase": "Q&A bot for Web Scraping using RAG pipeline",
+    "status": "Completed"
+  },
+  {
+    "id": "pilot-4-0-ai-workflow-for-summarization-of-news-article-and-storing-in-database-as-a-history-using-rag-pipeline",
+    "techStack": "Gen AI",
+    "sno": 4,
+    "useCase": "AI-Workflow for Summarization of News Article and storing in database as a history using RAG Pipeline​",
+    "status": "Completed"
+  },
+  {
+    "id": "pilot-5-0-automated-blog-post-generation",
+    "techStack": "Gen AI",
+    "sno": 5,
+    "useCase": "Automated Blog Post Generation",
+    "status": "Completed"
+  },
+  {
+    "id": "pilot-6-0-gen-ai-analyst-agent",
+    "techStack": "Gen AI",
+    "sno": 6,
+    "useCase": "Gen AI Analyst Agent",
+    "status": "Completed"
+  },
+  {
+    "id": "pilot-7-0-agentic-ai-for-etl",
+    "techStack": "Gen AI",
+    "sno": 7,
+    "useCase": "Agentic AI for ETL",
+    "status": "Completed"
+  },
+  {
+    "id": "pilot-8-0-insurance-claim-approval-recommendation-ai-assistant",
+    "techStack": "Gen AI",
+    "sno": 8,
+    "useCase": "Insurance claim Approval recommendation AI assistant",
+    "status": "Completed"
+  },
+  {
+    "id": "pilot-9-0-ai-powered-sql-agent",
+    "techStack": "Gen AI",
+    "sno": 9,
+    "useCase": "AI-Powered SQL Agent",
+    "status": "Completed"
+  },
+  {
+    "id": "pilot-10-0-resume-matching-system",
+    "techStack": "Gen AI",
+    "sno": 10,
+    "useCase": "Resume Matching system",
+    "status": "Completed"
+  },
+  {
+    "id": "pilot-11-0-snowflake-to-big-query-migration-using-storage-integration-and-big-query-apis",
+    "techStack": "Snowflake",
+    "sno": 11,
+    "useCase": "Snowflake to Big Query Migration Using Storage integration and Big Query APIs",
+    "status": "Completed"
+  },
+  {
+    "id": "pilot-12-0-snowflake-to-big-query-migration-using-python-scripts",
+    "techStack": "Snowflake",
+    "sno": 12,
+    "useCase": "Snowflake to Big Query Migration Using Python Scripts",
+    "status": "Completed"
+  },
+  {
+    "id": "pilot-13-0-data-model-generator",
+    "techStack": "Gen AI",
+    "sno": 13,
+    "useCase": "Data Model Generator",
+    "status": "Completed"
+  },
+  {
+    "id": "pilot-14-0-log-sphere-agent-pilot-project-spherical-view-of-global-cloud-logs-via-ai-on-azure-platform",
+    "techStack": "Gen AI",
+    "sno": 14,
+    "useCase": "Log Sphere Agent – Pilot Project- Spherical view of global cloud logs via AI on Azure Platform",
+    "status": "Completed"
+  },
+  {
+    "id": "pilot-15-0-ai-ready-laparoscopic-video-annotation-for-surgical-intelligence",
+    "techStack": "Gen AI",
+    "sno": 15,
+    "useCase": "AI-Ready Laparoscopic Video Annotation for Surgical Intelligence",
+    "status": "Completed"
+  },
+  {
+    "id": "pilot-16-0-offline-privacy-agent",
+    "techStack": "Gen AI",
+    "sno": 16,
+    "useCase": "Offline Privacy Agent",
+    "status": "Completed"
+  },
+  {
+    "id": "pilot-17-0-autonomous-customer-support-agent",
+    "techStack": "Gen AI",
+    "sno": 17,
+    "useCase": "Autonomous Customer Support Agent",
+    "status": "Completed"
+  },
+  {
+    "id": "pilot-18-0-intelligent-log-analysis-agent",
+    "techStack": "Gen AI",
+    "sno": 18,
+    "useCase": "Intelligent log Analysis Agent",
+    "status": "Completed"
+  },
+  {
+    "id": "pilot-19-0-data-pipeline-automation-using-multi-agent-systems",
+    "techStack": "Gen AI",
+    "sno": 19,
+    "useCase": "Data Pipeline Automation Using Multi-Agent Systems",
+    "status": "Completed"
+  },
+  {
+    "id": "pilot-20-0-autonomous-real-estate-sales-agent",
+    "techStack": "Gen AI",
+    "sno": 20,
+    "useCase": "Autonomous Real Estate Sales Agent",
+    "status": "Completed"
+  },
+  {
+    "id": "pilot-21-0-ai-repository-understanding-code-modernization-agent",
+    "techStack": "Gen AI",
+    "sno": 21,
+    "useCase": "AI Repository Understanding + Code Modernization Agent",
+    "status": "Completed"
+  },
+  {
+    "id": "pilot-22-0-ai-powered-loan-risk-assessment-and-decision-intelligence-system-using-llm-and-rag",
+    "techStack": "Gen AI",
+    "sno": 22,
+    "useCase": "AI-Powered Loan Risk Assessment and Decision Intelligence System using LLM and RAG",
+    "status": "Completed"
+  },
+  {
+    "id": "pilot-23-0-ai-powered-competitive-market-share-intelligence",
+    "techStack": "Gen AI",
+    "sno": 23,
+    "useCase": "AI-Powered Competitive &Market Share Intelligence",
+    "status": "Completed"
+  }
+]

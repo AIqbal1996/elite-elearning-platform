@@ -1,0 +1,105 @@
+{
+  "subject": "Python",
+  "modules": [
+    {
+      "id": "python-1-0-introduction-to-python-datatypes-variables-operators",
+      "sno": "1",
+      "module": "Introduction to Python Datatypes, Variables & Operators",
+      "subtopics": [
+        "Python Syntax",
+        "Python Comments",
+        "Datatypes & Variables",
+        "Type Casting",
+        "Operators",
+        "Numbers",
+        "Booleans"
+      ]
+    },
+    {
+      "id": "python-2-0-python-strings-conditional-statements-loops",
+      "sno": "2",
+      "module": "Python Strings, conditional statements & Loops",
+      "subtopics": [
+        "Strings",
+        "Python Control Statements",
+        "IF...Else",
+        "While Loops",
+        "For Loops",
+        "Match-Case Statement",
+        "break statement",
+        "continue statement",
+        "nested if",
+        "nested loops"
+      ]
+    },
+    {
+      "id": "python-3-0-complex-data-types-in-python",
+      "sno": "3",
+      "module": "Complex Data types in Python",
+      "subtopics": [
+        "Python Lists",
+        "Python Tuple",
+        "Python Sets",
+        "Python Dictionaries",
+        "Python Functions",
+        "Python Lambda",
+        "Python Arrays"
+      ]
+    },
+    {
+      "id": "python-4-0-oops",
+      "sno": "4",
+      "module": "OOPs",
+      "subtopics": [
+        "Object Oriented Programming",
+        "OOPs Concepts",
+        "Object & Classess",
+        "Class Attributes",
+        "Class Methods",
+        "Static Methods",
+        "Constructors",
+        "Inheritance",
+        "Iterators",
+        "Polymorphism",
+        "Method Overriding",
+        "Method Overloading"
+      ]
+    },
+    {
+      "id": "python-5-0-pyton-modules-built-in-functions",
+      "sno": "5",
+      "module": "Pyton Modules & Built in functions",
+      "subtopics": [
+        "Python Modules",
+        "Python Built in Functions",
+        "Python Dates",
+        "Python Math",
+        "Python User Input"
+      ]
+    },
+    {
+      "id": "python-6-0-errors-exceptional-handling",
+      "sno": "6",
+      "module": "Errors & Exceptional handling",
+      "subtopics": [
+        "Python Errors & Exceptions",
+        "try-except Block",
+        "try-finally block"
+      ]
+    },
+    {
+      "id": "python-7-0-python-in-data-engineering-using-numpy-pandas",
+      "sno": "7",
+      "module": "Python in Data Engineering using Numpy & Pandas",
+      "subtopics": [
+        "Python Libraries",
+        "Numpy",
+        "Pandas",
+        "Panda, Matplotlib & Data Mnaipulation",
+        "Si-kit learn"
+      ]
+    }
+  ],
+  "totalModules": 7,
+  "totalSubtopics": 49
+}

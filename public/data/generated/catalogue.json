@@ -1,0 +1,152 @@
+[
+  {
+    "id": "data-strategy-and-ai-advisory-data-architecture-data-architecture-modeling",
+    "capability": "Data Strategy and AI Advisory",
+    "skill": "Data Architecture",
+    "category": "Data Architecture & Modeling"
+  },
+  {
+    "id": "data-strategy-and-ai-advisory-data-modelling-data-architecture-modeling",
+    "capability": "Data Strategy and AI Advisory",
+    "skill": "Data Modelling",
+    "category": "Data Architecture & Modeling"
+  },
+  {
+    "id": "data-engineering-modernization-aws-data-stack-cloud-data-stacks",
+    "capability": "Data Engineering & Modernization",
+    "skill": "AWS Data Stack",
+    "category": "Cloud Data Stacks"
+  },
+  {
+    "id": "data-engineering-modernization-azure-data-stack-cloud-data-stacks",
+    "capability": "Data Engineering & Modernization",
+    "skill": "Azure Data Stack",
+    "category": "Cloud Data Stacks"
+  },
+  {
+    "id": "data-engineering-modernization-gcp-data-stack-cloud-data-stacks",
+    "capability": "Data Engineering & Modernization",
+    "skill": "GCP Data Stack",
+    "category": "Cloud Data Stacks"
+  },
+  {
+    "id": "data-engineering-modernization-big-data-big-data-distributed-processing",
+    "capability": "Data Engineering & Modernization",
+    "skill": "Big Data",
+    "category": "Big Data & Distributed Processing"
+  },
+  {
+    "id": "data-engineering-modernization-confluent-kafka-big-data-distributed-processing",
+    "capability": "Data Engineering & Modernization",
+    "skill": "Confluent Kafka",
+    "category": "Big Data & Distributed Processing"
+  },
+  {
+    "id": "data-engineering-modernization-airflow-aws-big-data-distributed-processing",
+    "capability": "Data Engineering & Modernization",
+    "skill": "Airflow + AWS",
+    "category": "Big Data & Distributed Processing"
+  },
+  {
+    "id": "data-engineering-modernization-snowflake-data-platforms-warehouses",
+    "capability": "Data Engineering & Modernization",
+    "skill": "Snowflake",
+    "category": "Data Platforms & Warehouses"
+  },
+  {
+    "id": "data-engineering-modernization-mongo-db-data-platforms-warehouses",
+    "capability": "Data Engineering & Modernization",
+    "skill": "Mongo DB",
+    "category": "Data Platforms & Warehouses"
+  },
+  {
+    "id": "data-engineering-modernization-bigquery-data-platforms-warehouses",
+    "capability": "Data Engineering & Modernization",
+    "skill": "BigQuery",
+    "category": "Data Platforms & Warehouses"
+  },
+  {
+    "id": "data-engineering-modernization-ms-fabric-data-platforms-warehouses",
+    "capability": "Data Engineering & Modernization",
+    "skill": "MS Fabric",
+    "category": "Data Platforms & Warehouses"
+  },
+  {
+    "id": "data-engineering-modernization-sql-data-platforms-warehouses",
+    "capability": "Data Engineering & Modernization",
+    "skill": "SQL",
+    "category": "Data Platforms & Warehouses"
+  },
+  {
+    "id": "data-engineering-modernization-azure-databricks-data-platforms-warehouses",
+    "capability": "Data Engineering & Modernization",
+    "skill": "Azure DataBricks",
+    "category": "Data Platforms & Warehouses"
+  },
+  {
+    "id": "deep-insights-analytics-power-bi-bi-visualization",
+    "capability": "Deep Insights & Analytics",
+    "skill": "Power BI",
+    "category": "BI & Visualization"
+  },
+  {
+    "id": "deep-insights-analytics-tableau-bi-visualization",
+    "capability": "Deep Insights & Analytics",
+    "skill": "Tableau",
+    "category": "BI & Visualization"
+  },
+  {
+    "id": "deep-insights-analytics-looker-bi-visualization",
+    "capability": "Deep Insights & Analytics",
+    "skill": "Looker",
+    "category": "BI & Visualization"
+  },
+  {
+    "id": "deep-insights-analytics-power-platform-bi-visualization",
+    "capability": "Deep Insights & Analytics",
+    "skill": "Power Platform",
+    "category": "BI & Visualization"
+  },
+  {
+    "id": "deep-insights-analytics-powerapps-bi-visualization",
+    "capability": "Deep Insights & Analytics",
+    "skill": "PowerApps",
+    "category": "BI & Visualization"
+  },
+  {
+    "id": "ai-services-python-programming-query-languages",
+    "capability": "AI Services",
+    "skill": "Python",
+    "category": "Programming & Query Languages"
+  },
+  {
+    "id": "ai-services-r-programming-query-languages",
+    "capability": "AI Services",
+    "skill": "R",
+    "category": "Programming & Query Languages"
+  },
+  {
+    "id": "ai-services-data-science-advanced-analytics-ai",
+    "capability": "AI Services",
+    "skill": "Data Science",
+    "category": "Advanced Analytics & AI"
+  },
+  {
+    "id": "ai-services-al-gen-ai-advanced-analytics-ai",
+    "capability": "AI Services",
+    "skill": "AL/Gen AI",
+    "category": "Advanced Analytics & AI"
+  },
+  {
+    "id": "dataops-mlops-spark-scala-programming-query-languages",
+    "capability": "DataOps & MLOps",
+    "skill": "Spark & Scala",
+    "category": "Programming & Query Languages"
+  },
+  {
+    "id": "dataops-mlops-pyspark-programming-query-languages",
+    "capability": "DataOps & MLOps",
+    "skill": "pySpark",
+    "category": "Programming & Query Languages"
+  }
+]

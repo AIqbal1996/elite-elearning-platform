@@ -1,0 +1,205 @@
+{
+  "subject": "SQL",
+  "modules": [
+    {
+      "id": "sql-1-0-data-manipulation",
+      "sno": "1",
+      "module": "DATA MANIPULATION",
+      "subtopics": [
+        "SELECT",
+        "ORDER BY",
+        "OFFSET FETCH",
+        "SELECT TOP",
+        "SELECT DISTINCT",
+        "WHERE",
+        "NULL",
+        "AND",
+        "OR",
+        "IN",
+        "BETWEEN",
+        "LIKE",
+        "Column & Table Aliases",
+        "Joins",
+        "INNER JOIN",
+        "LEFT JOIN",
+        "RIGHT JOIN",
+        "FULL OUTER JOIN",
+        "Self Join",
+        "CROSS JOIN",
+        "GROUP BY",
+        "HAVING",
+        "GROUPING SETS",
+        "CUBE",
+        "ROLLUP",
+        "Subquery",
+        "Correlated Subquery",
+        "EXISTS",
+        "ANY",
+        "ALL",
+        "UNION",
+        "INTERSECT",
+        "EXCEPT",
+        "Common Table Expression (CTE)",
+        "Recursive CTE",
+        "INSERT",
+        "INSERT Multiple Rows",
+        "INSERT INTO SELECT",
+        "UPDATE",
+        "UPDATE JOIN",
+        "DELETE",
+        "MERGE",
+        "PIVOT"
+      ]
+    },
+    {
+      "id": "sql-2-0-data-definition",
+      "sno": "2",
+      "module": "DATA DEFINITION",
+      "subtopics": [
+        "Create New Database",
+        "Drop Database",
+        "Create Schema",
+        "Alter Schema",
+        "Drop Schema",
+        "Create New Table",
+        "Identity Column",
+        "Sequence",
+        "Add Column",
+        "Modify Column",
+        "Drop Column",
+        "Computed Columns",
+        "Rename Table",
+        "Drop Table",
+        "Truncate Table",
+        "Temporary Tables",
+        "Synonym",
+        "SELECT INTO",
+        "PRIMARY KEY",
+        "FOREIGN KEY",
+        "CHECK Constraint",
+        "UNIQUE Constraint",
+        "NOT NULL Constraint"
+      ]
+    },
+    {
+      "id": "sql-3-0-data-types",
+      "sno": "3",
+      "module": "DATA TYPES",
+      "subtopics": [
+        "Data Types",
+        "BIT",
+        "CHAR",
+        "DATE",
+        "DATETIME2",
+        "DATETIMEOFFSET",
+        "Decimal",
+        "INT",
+        "NCHAR",
+        "NVARCHAR",
+        "TIME",
+        "VARCHAR"
+      ]
+    },
+    {
+      "id": "sql-4-0-expressions",
+      "sno": "4",
+      "module": "EXPRESSIONS",
+      "subtopics": [
+        "CASE",
+        "COALESCE",
+        "NULLIF"
+      ]
+    },
+    {
+      "id": "sql-5-0-views",
+      "sno": "5",
+      "module": "VIEWS",
+      "subtopics": [
+        "Creating Views",
+        "Listing Views",
+        "Renaming Views",
+        "Getting View Information",
+        "Removing Views",
+        "Creating Indexed Views"
+      ]
+    },
+    {
+      "id": "sql-6-0-triggers",
+      "sno": "6",
+      "module": "TRIGGERS",
+      "subtopics": [
+        "Creating After DML Triggers",
+        "Creating INSTEAD OF Triggers",
+        "Creating DDL Triggers",
+        "Disabling Triggers",
+        "Enabling Triggers",
+        "Viewing Definition of Triggers",
+        "Listing All Triggers",
+        "Removing Triggers"
+      ]
+    },
+    {
+      "id": "sql-7-0-stored-procedures",
+      "sno": "7",
+      "module": "STORED PROCEDURES",
+      "subtopics": [
+        "Stored Procedure Basics",
+        "Parameters",
+        "Variables",
+        "Output Parameters",
+        "BEGIN END",
+        "IF ELSE",
+        "\\",
+        "BREAK",
+        "CONTINUE",
+        "CURSOR",
+        "TRY CATCH",
+        "RAISERROR",
+        "THROW",
+        "Temporary Tables",
+        "Dynamic SQL"
+      ]
+    },
+    {
+      "id": "sql-8-0-user-defined-functions",
+      "sno": "8",
+      "module": "USER-DEFINED FUNCTIONS",
+      "subtopics": [
+        "Creating Scalar User-Defined Function",
+        "Table Variables",
+        "Creating Table-valued Functions",
+        "Removing User-defined Functions"
+      ]
+    },
+    {
+      "id": "sql-9-0-built-in-functions",
+      "sno": "9",
+      "module": "Built- in Functions",
+      "subtopics": [
+        "String Functions",
+        "Numeric Functions",
+        "Aggregate Functions",
+        "DateTime Functions",
+        "Advance Functions"
+      ]
+    },
+    {
+      "id": "sql-10-0-performance",
+      "sno": "10",
+      "module": "Performance",
+      "subtopics": [
+        "Optimization & Perormance Tuning"
+      ]
+    },
+    {
+      "id": "sql-11-0-dml",
+      "sno": "11",
+      "module": "DML",
+      "subtopics": [
+        "DML"
+      ]
+    }
+  ],
+  "totalModules": 11,
+  "totalSubtopics": 121
+}

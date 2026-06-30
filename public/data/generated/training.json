@@ -1,0 +1,730 @@
+[
+  {
+    "id": "training-2-data-engineering-cloud-platform-percipio-track-data-engineering-basic-track",
+    "courseName": "Data Engineering- Cloud Platform",
+    "link": "Percipio Track Data Engineering-Basic-Track",
+    "durationHr": 33.0,
+    "source": "Courses.xlsx / Training"
+  },
+  {
+    "id": "training-3-data-engineering-cloud-platform-percipio-track-data-engineering-intermediate-aws-track",
+    "courseName": "Data Engineering- Cloud Platform",
+    "link": "Percipio Track Data Engineering-Intermediate-AWS-Track",
+    "durationHr": 36.0,
+    "source": "Courses.xlsx / Training"
+  },
+  {
+    "id": "training-4-data-engineering-cloud-platform-percipio-track-data-engineering-intermediate-azure-track",
+    "courseName": "Data Engineering- Cloud Platform",
+    "link": "Percipio Track Data Engineering-Intermediate-Azure-Track",
+    "durationHr": 59.0,
+    "source": "Courses.xlsx / Training"
+  },
+  {
+    "id": "training-5-data-engineering-cloud-platform-percipio-track-data-engineering-advanced-track",
+    "courseName": "Data Engineering- Cloud Platform",
+    "link": "Percipio Track Data Engineering-Advanced-Track",
+    "durationHr": 76.0,
+    "source": "Courses.xlsx / Training"
+  },
+  {
+    "id": "training-6-data-architecture-percipio-channel-architecting-data",
+    "courseName": "Data Architecture",
+    "link": "Percipio Channel Architecting Data",
+    "durationHr": 7.0,
+    "source": "Courses.xlsx / Training"
+  },
+  {
+    "id": "training-7-spark-percipio-channel-apache-spark-2-4-3-6",
+    "courseName": "Spark",
+    "link": "Percipio Channel Apache Spark-2.4 &3.6",
+    "durationHr": 4.0,
+    "source": "Courses.xlsx / Training"
+  },
+  {
+    "id": "training-8-etl-percipio-course-traditional-data-architectures-data-warehousing-and-etl-systems",
+    "courseName": "ETL",
+    "link": "Percipio Course Traditional Data Architectures: Data Warehousing and ETL Systems",
+    "durationHr": 1.0,
+    "source": "Courses.xlsx / Training"
+  },
+  {
+    "id": "training-9-sql-percipio-journey-oracle-sql",
+    "courseName": "SQL",
+    "link": "Percipio Journey Oracle SQL",
+    "durationHr": 12.0,
+    "source": "Courses.xlsx / Training"
+  },
+  {
+    "id": "training-10-airflow-percipio-course-building-data-pipelines",
+    "courseName": "Airflow",
+    "link": "Percipio Course Building Data Pipelines",
+    "durationHr": 1.0,
+    "source": "Courses.xlsx / Training"
+  },
+  {
+    "id": "training-11-azure-databricks-percipio-course-data-engineering-on-microsoft-azure-databricks",
+    "courseName": "Azure Databricks",
+    "link": "Percipio Course Data Engineering on Microsoft Azure: Databricks",
+    "durationHr": 1.0,
+    "source": "Courses.xlsx / Training"
+  },
+  {
+    "id": "training-12-azure-architecture-percipio-channel-azure-architecture",
+    "courseName": "Azure Architecture",
+    "link": "Percipio Channel Azure Architecture",
+    "durationHr": 18.0,
+    "source": "Courses.xlsx / Training"
+  },
+  {
+    "id": "training-13-azure-data-engg-associate-percipio-channel-microsoft-certified-azure-data-engineer-associate",
+    "courseName": "Azure Data Engg Associate",
+    "link": "Percipio Channel Microsoft Certified: Azure Data Engineer Associate",
+    "durationHr": 28.0,
+    "source": "Courses.xlsx / Training"
+  },
+  {
+    "id": "training-14-pyspark-percipio-book-data-analysis-with-python-and-pyspark",
+    "courseName": "PySpark",
+    "link": "Percipio Book Data Analysis with Python and PySpark",
+    "durationHr": 8.0,
+    "source": "Courses.xlsx / Training"
+  },
+  {
+    "id": "training-15-hadoop-percipio-channel-apache-hadoop-2-9",
+    "courseName": "Hadoop",
+    "link": "Percipio Channel Apache Hadoop-2.9",
+    "durationHr": 10.0,
+    "source": "Courses.xlsx / Training"
+  },
+  {
+    "id": "training-16-hadoop-hive-percipio-book-big-data-using-hadoop-and-hive",
+    "courseName": "Hadoop & Hive",
+    "link": "Percipio Book Big Data Using Hadoop and Hive",
+    "durationHr": 2.5,
+    "source": "Courses.xlsx / Training"
+  },
+  {
+    "id": "training-17-snowflake-percipio-journey-data-analytics-with-snowflake",
+    "courseName": "Snowflake",
+    "link": "Percipio Journey Data Analytics with Snowflake",
+    "durationHr": 22.0,
+    "source": "Courses.xlsx / Training"
+  },
+  {
+    "id": "training-18-snowflake-percipio-channel-snowflake-basic-inermediate",
+    "courseName": "Snowflake",
+    "link": "Percipio Channel Snowflake-Basic & Inermediate",
+    "durationHr": 16.0,
+    "source": "Courses.xlsx / Training"
+  },
+  {
+    "id": "training-19-power-bi-percipio-journey-dbs-power-bi",
+    "courseName": "Power BI",
+    "link": "Percipio Journey DBS - Power BI",
+    "durationHr": 57.0,
+    "source": "Courses.xlsx / Training"
+  },
+  {
+    "id": "training-20-power-bi-percipio",
+    "courseName": "Power BI",
+    "link": "Percipio",
+    "durationHr": 26.0,
+    "source": "Courses.xlsx / Training"
+  },
+  {
+    "id": "training-21-tableau-percipio-journey-dbs-tableau",
+    "courseName": "Tableau",
+    "link": "Percipio Journey DBS - Tableau",
+    "durationHr": 23.0,
+    "source": "Courses.xlsx / Training"
+  },
+  {
+    "id": "training-22-gcp-percipio-channel-google-cloud",
+    "courseName": "GCP",
+    "link": "Percipio Channel Google Cloud",
+    "durationHr": 25.0,
+    "source": "Courses.xlsx / Training"
+  },
+  {
+    "id": "training-23-azureml-percipio-course-azure-ai-fundamentals-machine-learning-with-azure-services",
+    "courseName": "AzureML",
+    "link": "Percipio Course Azure AI Fundamentals: Machine Learning with Azure Services",
+    "durationHr": 2.0,
+    "source": "Courses.xlsx / Training"
+  },
+  {
+    "id": "training-24-gcp-data-engineer-percipio-channel-google-data-engineer",
+    "courseName": "GCP Data Engineer",
+    "link": "Percipio Channel Google Data Engineer",
+    "durationHr": 22.0,
+    "source": "Courses.xlsx / Training"
+  },
+  {
+    "id": "training-25-aws-percipio-journey-cloud-aws",
+    "courseName": "AWS",
+    "link": "Percipio Journey Cloud AWS",
+    "durationHr": 26.0,
+    "source": "Courses.xlsx / Training"
+  },
+  {
+    "id": "training-26-scala-percipio-channel-scala",
+    "courseName": "Scala",
+    "link": "Percipio Channel Scala",
+    "durationHr": 9.0,
+    "source": "Courses.xlsx / Training"
+  },
+  {
+    "id": "training-27-data-science-percipio-channel-data-science-for-managers-bootcamp",
+    "courseName": "Data Science",
+    "link": "Percipio Channel Data Science for Managers Bootcamp",
+    "durationHr": 20.0,
+    "source": "Courses.xlsx / Training"
+  },
+  {
+    "id": "training-28-data-science-percipio-book-data-science-for-business-professionals-a-practical-guide-for-beginners",
+    "courseName": "Data Science",
+    "link": "Percipio Book Data Science for Business Professionals: A Practical Guide for Beginners",
+    "durationHr": 4.0,
+    "source": "Courses.xlsx / Training"
+  },
+  {
+    "id": "training-29-data-science-percipio-channel-data-science-core-concepts",
+    "courseName": "Data Science",
+    "link": "Percipio Channel Data Science Core Concepts",
+    "durationHr": 11.0,
+    "source": "Courses.xlsx / Training"
+  },
+  {
+    "id": "training-30-power-platform-percipio-journey-microsoft-certified-power-platform-fundamentals",
+    "courseName": "Power Platform",
+    "link": "Percipio Journey Microsoft Certified: Power Platform Fundamentals",
+    "durationHr": 7.0,
+    "source": "Courses.xlsx / Training"
+  },
+  {
+    "id": "training-31-power-platform-percipio-channel-microsoft-power-platform",
+    "courseName": "Power Platform",
+    "link": "Percipio Channel Microsoft Power Platform",
+    "durationHr": 20.0,
+    "source": "Courses.xlsx / Training"
+  },
+  {
+    "id": "training-32-power-automate-percipio-book-deep-dive-into-power-automate-learn-by-example",
+    "courseName": "Power Automate",
+    "link": "Percipio Book Deep Dive into Power Automate: Learn by Example",
+    "durationHr": 3.0,
+    "source": "Courses.xlsx / Training"
+  },
+  {
+    "id": "training-33-power-apps-percipio-channel-microsoft-powerapps-begineer-intermediate",
+    "courseName": "Power Apps",
+    "link": "Percipio Channel Microsoft PowerApps-begineer +intermediate",
+    "durationHr": 5.0,
+    "source": "Courses.xlsx / Training"
+  },
+  {
+    "id": "training-34-gcp-sql-percipio-journey-working-with-google-cloud-sql",
+    "courseName": "GCP SQL",
+    "link": "Percipio Journey Working with Google Cloud SQL",
+    "durationHr": 5.0,
+    "source": "Courses.xlsx / Training"
+  },
+  {
+    "id": "training-35-bigquery-percipio-course-fundamentals-of-bigquery",
+    "courseName": "BigQuery",
+    "link": "Percipio Course Fundamentals of BigQuery",
+    "durationHr": 1.5,
+    "source": "Courses.xlsx / Training"
+  },
+  {
+    "id": "training-36-mysql-percipio-course-mysql-database-development-database-design-fundamentals",
+    "courseName": "MySQL",
+    "link": "Percipio Course MySQL Database Development: Database Design Fundamentals",
+    "durationHr": 1.0,
+    "source": "Courses.xlsx / Training"
+  },
+  {
+    "id": "training-37-data-warehouse-percipio-channel-data-warehousing-begineer-intermediate",
+    "courseName": "Data Warehouse",
+    "link": "Percipio Channel Data Warehousing-Begineer +Intermediate",
+    "durationHr": 5.0,
+    "source": "Courses.xlsx / Training"
+  },
+  {
+    "id": "training-38-postgre-percipio-channel-postgresql",
+    "courseName": "Postgre",
+    "link": "Percipio Channel PostgreSQL",
+    "durationHr": 15.0,
+    "source": "Courses.xlsx / Training"
+  },
+  {
+    "id": "training-39-mongodb-percipio-channel-mongodb",
+    "courseName": "MongoDB",
+    "link": "Percipio Channel MongoDB",
+    "durationHr": 8.0,
+    "source": "Courses.xlsx / Training"
+  },
+  {
+    "id": "training-40-teradata-percipio-book-v14-certification-teradata-basics",
+    "courseName": "Teradata",
+    "link": "Percipio Book V14 Certification: Teradata Basics",
+    "durationHr": 3.0,
+    "source": "Courses.xlsx / Training"
+  },
+  {
+    "id": "training-41-teradata-percipio-book-teradata-architecture-for-it-and-developers",
+    "courseName": "Teradata",
+    "link": "Percipio Book Teradata Architecture for IT and Developers",
+    "durationHr": 2.0,
+    "source": "Courses.xlsx / Training"
+  },
+  {
+    "id": "training-42-teradata-percipio-channel-teradata",
+    "courseName": "Teradata",
+    "link": "Percipio Channel Teradata",
+    "durationHr": 16.0,
+    "source": "Courses.xlsx / Training"
+  },
+  {
+    "id": "training-43-teradata-percipio-book-teradata-utilities-bteq-fastload-multiload-tpump-and-fastexport-second-edition",
+    "courseName": "Teradata",
+    "link": "Percipio Book Teradata Utilities: BTEQ, FastLoad, MultiLoad, TPump, and FastExport, Second Edition;",
+    "durationHr": 3.0,
+    "source": "Courses.xlsx / Training"
+  },
+  {
+    "id": "training-44-teradata-percipio-book-teradata-load-utilities",
+    "courseName": "Teradata",
+    "link": "Percipio Book Teradata Load Utilities",
+    "durationHr": 2.0,
+    "source": "Courses.xlsx / Training"
+  },
+  {
+    "id": "training-45-data-mangement-governance-quality-percipio-track-track-2-data-ownership",
+    "courseName": "Data Mangement, governance & quality",
+    "link": "Percipio Track Track 2: Data Ownership",
+    "durationHr": 5.0,
+    "source": "Courses.xlsx / Training"
+  },
+  {
+    "id": "training-46-aws-data-stack-aws-glue-aws-emr-aws-athena-aws-redshift-percipio-content-aws-glue-getting-started",
+    "courseName": "AWS Data Stack (AWS Glue, AWS EMR, AWS Athena, AWS RedShift)",
+    "link": "Percipio Content AWS Glue Getting Started",
+    "durationHr": 1.0,
+    "source": "Courses.xlsx / Training"
+  },
+  {
+    "id": "training-47-aws-data-stack-aws-glue-aws-emr-aws-athena-aws-redshift-percipio-content-amazon-emr-getting-started",
+    "courseName": "AWS Data Stack (AWS Glue, AWS EMR, AWS Athena, AWS RedShift)",
+    "link": "Percipio Content Amazon EMR Getting Started",
+    "durationHr": 1.0,
+    "source": "Courses.xlsx / Training"
+  },
+  {
+    "id": "training-48-aws-data-stack-aws-glue-aws-emr-aws-athena-aws-redshift-percipio-course-aws-certified-machine-learning-athena-quicksight-emr",
+    "courseName": "AWS Data Stack (AWS Glue, AWS EMR, AWS Athena, AWS RedShift)",
+    "link": "Percipio Course AWS Certified Machine Learning: Athena, QuickSight, & EMR",
+    "durationHr": 1.0,
+    "source": "Courses.xlsx / Training"
+  },
+  {
+    "id": "training-49-aws-data-stack-aws-glue-aws-emr-aws-athena-aws-redshift-percipio-content-getting-started-with-amazon-redshift",
+    "courseName": "AWS Data Stack (AWS Glue, AWS EMR, AWS Athena, AWS RedShift)",
+    "link": "Percipio Content Getting Started with Amazon Redshift",
+    "durationHr": 1.0,
+    "source": "Courses.xlsx / Training"
+  },
+  {
+    "id": "training-50-datastage-datawarehouse-concept-what-it-is-dimension-fact-tables-percipio-course-traditional-data-architectures-data-warehousing-and-etl-systems-https-hclcontent-percipio-com-channels-e8fdec76-bd65-4935-80c9-031d06a3f056-view-957d8c93-0768-43d1-8cf2-c323fe68659c-tab-watch",
+    "courseName": "Datastage(Datawarehouse concept(what it is, dimension & fact tables))",
+    "link": "Percipio Course Traditional Data Architectures: Data Warehousing and ETL Systems; https://hclcontent.percipio.com/channels/e8fdec76-bd65-4935-80c9-031d06a3f056/view/957d8c93-0768-43d1-8cf2-c323fe68659c?tab=WATCH",
+    "durationHr": 5.63,
+    "source": "Courses.xlsx / Training"
+  },
+  {
+    "id": "training-51-cosmos-db-percipio-book-cosmos-db-for-mongodb-developers-migrating-to-azure-cosmos-db-and-using-the-mongodb-api",
+    "courseName": "Cosmos DB",
+    "link": "Percipio Book Cosmos DB for MongoDB Developers: Migrating to Azure Cosmos DB and Using the MongoDB API",
+    "durationHr": 1.5,
+    "source": "Courses.xlsx / Training"
+  },
+  {
+    "id": "training-52-cosmos-db-percipio-journey-working-with-azure-cosmos-db",
+    "courseName": "Cosmos DB",
+    "link": "Percipio Journey Working with Azure Cosmos DB",
+    "durationHr": 6.0,
+    "source": "Courses.xlsx / Training"
+  },
+  {
+    "id": "training-53-kustos-percipio-video-basic-kql-kusto-query-language-for-ai-analysis",
+    "courseName": "Kustos",
+    "link": "Percipio Video Basic KQL (Kusto Query Language) for AI Analysis",
+    "durationHr": 0.13,
+    "source": "Courses.xlsx / Training"
+  },
+  {
+    "id": "training-54-kustos-percipio-course-work-with-data-in-azure-sentinel-using-kusto-query-language",
+    "courseName": "Kustos",
+    "link": "Percipio Course Work with data in Azure Sentinel using Kusto Query Language",
+    "durationHr": 0.5,
+    "source": "Courses.xlsx / Training"
+  },
+  {
+    "id": "training-55-kustos-percipio-course-write-your-first-query-with-kusto-query-language",
+    "courseName": "Kustos",
+    "link": "Percipio Course Write your first query with Kusto Query Language",
+    "durationHr": 1.0,
+    "source": "Courses.xlsx / Training"
+  },
+  {
+    "id": "training-56-kustos-percipio-video-querying-log-analytics-logs-using-kusto-kql",
+    "courseName": "Kustos",
+    "link": "Percipio Video Querying Log Analytics Logs Using Kusto (KQL)",
+    "durationHr": 0.13,
+    "source": "Courses.xlsx / Training"
+  },
+  {
+    "id": "training-57-logic-app-percipio-course-developing-solutions-for-microsoft-azure-developing-an-app-service-logic-app",
+    "courseName": "Logic App",
+    "link": "Percipio Course Developing Solutions for Microsoft Azure: Developing an App Service Logic App",
+    "durationHr": 1.0,
+    "source": "Courses.xlsx / Training"
+  },
+  {
+    "id": "training-58-logic-app-percipio-course-azure-developer-working-with-azure-logic-apps",
+    "courseName": "Logic App",
+    "link": "Percipio Course Azure Developer: Working with Azure Logic Apps",
+    "durationHr": 1.0,
+    "source": "Courses.xlsx / Training"
+  },
+  {
+    "id": "training-59-logic-app-percipio-course-microsoft-azure-architect-technologies-devops-azure",
+    "courseName": "Logic App",
+    "link": "Percipio Course Microsoft Azure Architect Technologies: DevOps & Azure",
+    "durationHr": 0.5,
+    "source": "Courses.xlsx / Training"
+  },
+  {
+    "id": "training-60-ms-fabric-percipio-channel-microsoft-fabric",
+    "courseName": "MS Fabric",
+    "link": "Percipio Channel Microsoft Fabric",
+    "durationHr": 22.0,
+    "source": "Courses.xlsx / Training"
+  },
+  {
+    "id": "training-61-ms-fabric-percipio",
+    "courseName": "MS Fabric",
+    "link": "Percipio",
+    "durationHr": 24.0,
+    "source": "Courses.xlsx / Training"
+  },
+  {
+    "id": "training-62-ms-fabric-percipio-book-mastering-microsoft-fabric-saasification-of-analytics",
+    "courseName": "MS Fabric",
+    "link": "Percipio Book Mastering Microsoft Fabric: SAASification of Analytics",
+    "durationHr": 3.0,
+    "source": "Courses.xlsx / Training"
+  },
+  {
+    "id": "training-63-ssas-ssis-percipio-book-sql-server-analytical-toolkit-using-windowing-analytical-ranking-and-aggregate-functions-for-data-and-statistical-analysis",
+    "courseName": "SSAS & SSIS",
+    "link": "Percipio Book SQL Server Analytical Toolkit: Using Windowing, Analytical, Ranking, and Aggregate Functions for Data and Statistical Analysis",
+    "durationHr": null,
+    "source": "Courses.xlsx / Training"
+  },
+  {
+    "id": "training-64-ssas-ssis-percipio-course-data-flow-implementation-etl",
+    "courseName": "SSAS & SSIS",
+    "link": "Percipio Course Data Flow Implementation & ETL",
+    "durationHr": 10.0,
+    "source": "Courses.xlsx / Training"
+  },
+  {
+    "id": "training-65-ssas-ssis-percipio-book-mastering-microsoft-fabric-saasification-of-analytics",
+    "courseName": "SSAS & SSIS",
+    "link": "Percipio Book Mastering Microsoft Fabric: SAASification of Analytics",
+    "durationHr": 1.0,
+    "source": "Courses.xlsx / Training"
+  },
+  {
+    "id": "training-66-pubsub-dataproc-percipio-course-build-your-first-real-time-chat-app-by-using-azure-web-pubsub-and-azure-static-web",
+    "courseName": "PubSub & Dataproc",
+    "link": "Percipio Course Build your first real-time chat app by using Azure Web PubSub and Azure Static Web …",
+    "durationHr": 3.0,
+    "source": "Courses.xlsx / Training"
+  },
+  {
+    "id": "training-67-pubsub-dataproc-percipio-video-using-spies-to-test-pubsub-and-jquery",
+    "courseName": "PubSub & Dataproc",
+    "link": "Percipio Video Using Spies to Test PubSub and jQuery",
+    "durationHr": null,
+    "source": "Courses.xlsx / Training"
+  },
+  {
+    "id": "training-68-pubsub-dataproc-percipio-course-introduction-to-azure-web-pubsub",
+    "courseName": "PubSub & Dataproc",
+    "link": "Percipio Course Introduction to Azure Web PubSub",
+    "durationHr": null,
+    "source": "Courses.xlsx / Training"
+  },
+  {
+    "id": "training-69-pubsub-dataproc-none",
+    "courseName": "PubSub & Dataproc",
+    "link": null,
+    "durationHr": null,
+    "source": "Courses.xlsx / Training"
+  },
+  {
+    "id": "training-70-pubsub-dataproc-percipio-course-dataproc",
+    "courseName": "PubSub & Dataproc",
+    "link": "Percipio Course Dataproc",
+    "durationHr": null,
+    "source": "Courses.xlsx / Training"
+  },
+  {
+    "id": "training-71-pubsub-dataproc-percipio-video-dataproc-troubleshooting",
+    "courseName": "PubSub & Dataproc",
+    "link": "Percipio Video Dataproc Troubleshooting",
+    "durationHr": null,
+    "source": "Courses.xlsx / Training"
+  },
+  {
+    "id": "training-72-pubsub-dataproc-percipio-video-characteristics-of-dataproc",
+    "courseName": "PubSub & Dataproc",
+    "link": "Percipio Video Characteristics of Dataproc",
+    "durationHr": null,
+    "source": "Courses.xlsx / Training"
+  },
+  {
+    "id": "training-73-pubsub-dataproc-percipio-video-dataproc-cluster-options",
+    "courseName": "PubSub & Dataproc",
+    "link": "Percipio Video Dataproc Cluster Options",
+    "durationHr": null,
+    "source": "Courses.xlsx / Training"
+  },
+  {
+    "id": "training-74-pubsub-dataproc-percipio-video-reviewing-job-statuses-with-dataproc",
+    "courseName": "PubSub & Dataproc",
+    "link": "Percipio Video Reviewing Job Statuses with Dataproc",
+    "durationHr": null,
+    "source": "Courses.xlsx / Training"
+  },
+  {
+    "id": "training-75-pubsub-dataproc-percipio-video-key-advantages-of-dataproc",
+    "courseName": "PubSub & Dataproc",
+    "link": "Percipio Video Key Advantages of Dataproc",
+    "durationHr": null,
+    "source": "Courses.xlsx / Training"
+  },
+  {
+    "id": "training-76-pubsub-dataproc-percipio-video-control-resources-in-dataproc-clusters",
+    "courseName": "PubSub & Dataproc",
+    "link": "Percipio Video Control Resources in Dataproc Clusters",
+    "durationHr": null,
+    "source": "Courses.xlsx / Training"
+  },
+  {
+    "id": "training-77-pubsub-dataproc-percipio-course-dataproc-architecture",
+    "courseName": "PubSub & Dataproc",
+    "link": "Percipio Course Dataproc Architecture",
+    "durationHr": null,
+    "source": "Courses.xlsx / Training"
+  },
+  {
+    "id": "training-78-data-science-percipio-channel-data-science-core-concepts",
+    "courseName": "Data Science",
+    "link": "Percipio Channel Data Science Core Concepts",
+    "durationHr": 8.0,
+    "source": "Courses.xlsx / Training"
+  },
+  {
+    "id": "training-79-data-science-percipio-journey-data-science-foundations",
+    "courseName": "Data Science",
+    "link": "Percipio Journey Data Science Foundations",
+    "durationHr": 7.0,
+    "source": "Courses.xlsx / Training"
+  },
+  {
+    "id": "training-80-nlp-percipio-journey-nlp",
+    "courseName": "NLP",
+    "link": "Percipio Journey NLP",
+    "durationHr": 12.0,
+    "source": "Courses.xlsx / Training"
+  },
+  {
+    "id": "training-81-nlp-and-llms-percipio-journey-natural-language-processing-and-llms",
+    "courseName": "NLP and LLMs",
+    "link": "Percipio Journey Natural Language Processing and LLMs",
+    "durationHr": 22.5,
+    "source": "Courses.xlsx / Training"
+  },
+  {
+    "id": "training-82-intrroduction-to-llms-percipio-journey-introduction-to-large-language-models-llms",
+    "courseName": "Intrroduction to LLMs",
+    "link": "Percipio Journey Introduction to Large Language Models (LLMs)",
+    "durationHr": 1.0,
+    "source": "Courses.xlsx / Training"
+  },
+  {
+    "id": "training-83-intorduction-to-prompt-engineering-gpt-prompts-nlp-llms-percipio-journey-ai-learning-journey-frontline-end-users",
+    "courseName": "Intorduction to Prompt Engineering,GPT prompts, NLP, LLMs",
+    "link": "Percipio Journey AI Learning Journey - Frontline End Users",
+    "durationHr": 2.0,
+    "source": "Courses.xlsx / Training"
+  },
+  {
+    "id": "training-84-power-bi-power-bi-dax-percipio-journey-dbs-power-bi",
+    "courseName": "Power BI +Power BI DAX",
+    "link": "Percipio Journey DBS - Power BI",
+    "durationHr": 56.0,
+    "source": "Courses.xlsx / Training"
+  },
+  {
+    "id": "training-85-spark-scala-pyspark-percipio-journey-introduction-to-big-data-with-pyspark",
+    "courseName": "Spark, Scala. Pyspark",
+    "link": "Percipio Journey Introduction to Big Data with PySpark",
+    "durationHr": 5.0,
+    "source": "Courses.xlsx / Training"
+  },
+  {
+    "id": "training-86-spark-scala-pyspark-percipio-channel-scala",
+    "courseName": "Spark, Scala. Pyspark",
+    "link": "Percipio Channel Scala",
+    "durationHr": 8.0,
+    "source": "Courses.xlsx / Training"
+  },
+  {
+    "id": "training-87-spark-scala-pyspark-percipio-channel-apache-spark",
+    "courseName": "Spark, Scala. Pyspark",
+    "link": "Percipio Channel Apache Spark",
+    "durationHr": 2.0,
+    "source": "Courses.xlsx / Training"
+  },
+  {
+    "id": "training-88-teradata-basics-percipio-book-v14-certification-teradata-basics",
+    "courseName": "Teradata Basics",
+    "link": "Percipio Book V14 Certification: Teradata Basics",
+    "durationHr": 3.0,
+    "source": "Courses.xlsx / Training"
+  },
+  {
+    "id": "training-89-teradata-basics-percipio-book-teradata-architecture-for-it-and-developers",
+    "courseName": "Teradata Basics",
+    "link": "Percipio Book Teradata Architecture for IT and Developers",
+    "durationHr": 2.0,
+    "source": "Courses.xlsx / Training"
+  },
+  {
+    "id": "training-90-teradata-utilities-percipio-book-teradata-utilities-bteq-fastload-multiload-tpump-and-fastexport-second-edition",
+    "courseName": "Teradata Utilities",
+    "link": "Percipio Book Teradata Utilities: BTEQ, FastLoad, MultiLoad, TPump, and FastExport, Second Edition;",
+    "durationHr": 3.0,
+    "source": "Courses.xlsx / Training"
+  },
+  {
+    "id": "training-91-teradata-utilities-percipio-book-teradata-load-utilities",
+    "courseName": "Teradata Utilities",
+    "link": "Percipio Book Teradata Load Utilities",
+    "durationHr": 2.0,
+    "source": "Courses.xlsx / Training"
+  },
+  {
+    "id": "training-92-mlops-percipio-journey-mlops",
+    "courseName": "MLOps",
+    "link": "Percipio Journey MLOps",
+    "durationHr": 23.0,
+    "source": "Courses.xlsx / Training"
+  },
+  {
+    "id": "training-93-mlops-percipio-course-devops-platforms-and-operations-dataops-principles",
+    "courseName": "MLOps",
+    "link": "Percipio Course DevOps Platforms and Operations: DataOps Principles",
+    "durationHr": 0.0625,
+    "source": "Courses.xlsx / Training"
+  },
+  {
+    "id": "training-94-mlops-https-changeme-udemy-com-4346210",
+    "courseName": "MLOps",
+    "link": "https://changeme.udemy.com/4346210",
+    "durationHr": 19.3,
+    "source": "Courses.xlsx / Training"
+  },
+  {
+    "id": "training-95-mlops-https-changeme-udemy-com-6185965",
+    "courseName": "MLOps",
+    "link": "https://changeme.udemy.com/6185965",
+    "durationHr": 50.8,
+    "source": "Courses.xlsx / Training"
+  },
+  {
+    "id": "training-96-mlops-https-changeme-udemy-com-4025834",
+    "courseName": "MLOps",
+    "link": "https://changeme.udemy.com/4025834",
+    "durationHr": 2.9,
+    "source": "Courses.xlsx / Training"
+  },
+  {
+    "id": "training-97-mlops-https-changeme-udemy-com-4393768",
+    "courseName": "MLOps",
+    "link": "https://changeme.udemy.com/4393768",
+    "durationHr": 37.9,
+    "source": "Courses.xlsx / Training"
+  },
+  {
+    "id": "training-98-mlops-https-changeme-udemy-com-5471622",
+    "courseName": "MLOps",
+    "link": "https://changeme.udemy.com/5471622",
+    "durationHr": 36.5,
+    "source": "Courses.xlsx / Training"
+  },
+  {
+    "id": "training-99-mlops-https-changeme-udemy-com-5611434",
+    "courseName": "MLOps",
+    "link": "https://changeme.udemy.com/5611434",
+    "durationHr": 9.3,
+    "source": "Courses.xlsx / Training"
+  },
+  {
+    "id": "training-100-mlops-https-changeme-udemy-com-6474355",
+    "courseName": "MLOps",
+    "link": "https://changeme.udemy.com/6474355",
+    "durationHr": 54.6,
+    "source": "Courses.xlsx / Training"
+  },
+  {
+    "id": "training-101-mlops-https-changeme-udemy-com-5804708",
+    "courseName": "MLOps",
+    "link": "https://changeme.udemy.com/5804708",
+    "durationHr": 16.6,
+    "source": "Courses.xlsx / Training"
+  },
+  {
+    "id": "training-102-mlops-https-changeme-udemy-com-5914886",
+    "courseName": "MLOps",
+    "link": "https://changeme.udemy.com/5914886",
+    "durationHr": 19.3,
+    "source": "Courses.xlsx / Training"
+  },
+  {
+    "id": "training-103-mlops-https-changeme-udemy-com-6387625",
+    "courseName": "MLOps",
+    "link": "https://changeme.udemy.com/6387625",
+    "durationHr": 1.8,
+    "source": "Courses.xlsx / Training"
+  },
+  {
+    "id": "training-104-dataops-dataops-fundamentals-for-beginners-udemy",
+    "courseName": "DataOps",
+    "link": "DataOps Fundamentals for Beginners | Udemy",
+    "durationHr": 2.59,
+    "source": "Courses.xlsx / Training"
+  },
+  {
+    "id": "training-105-dataops-master-of-databricks-asset-bundle-dataops-udemy",
+    "courseName": "DataOps",
+    "link": "Master of Databricks Asset Bundle (DataOps) | Udemy",
+    "durationHr": 5.18,
+    "source": "Courses.xlsx / Training"
+  }
+]

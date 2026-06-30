@@ -1,0 +1,12 @@
+{
+  "totalCourses": 205,
+  "trainingCourses": 104,
+  "globalCourses": 104,
+  "categories": 7,
+  "skills": 25,
+  "assessments": 65,
+  "projects": 23,
+  "completedProjects": 23,
+  "pythonModules": 7,
+  "sqlModules": 11
+}
