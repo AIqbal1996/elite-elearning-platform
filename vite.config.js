@@ -6,8 +6,9 @@ export default defineConfig({
   preview: {
     host: '0.0.0.0',
     allowedHosts: [
-      'elite-elearning-platform.onrender.com',
-      'elite-elearning-platform-1.onrender.com'
+      '.onrender.com',
+      'localhost',
+      '127.0.0.1'
     ]
   }
 });
