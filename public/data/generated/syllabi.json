@@ -1,0 +1,539 @@
+[
+  {
+    "subject": "Python",
+    "modules": [
+      {
+        "id": "python-1-introduction-to-python-datatypes-variables-operators",
+        "sno": "1",
+        "module": "Introduction to Python Datatypes, Variables & Operators",
+        "subtopics": [
+          "Python Syntax",
+          "Python Comments",
+          "Datatypes & Variables",
+          "Type Casting",
+          "Operators",
+          "Numbers",
+          "Booleans"
+        ]
+      },
+      {
+        "id": "python-2-python-strings-conditional-statements-loops",
+        "sno": "2",
+        "module": "Python Strings, conditional statements & Loops",
+        "subtopics": [
+          "Strings",
+          "Python Control Statements",
+          "IF...Else",
+          "While Loops",
+          "For Loops",
+          "Match-Case Statement",
+          "break statement",
+          "continue statement",
+          "nested if",
+          "nested loops"
+        ]
+      },
+      {
+        "id": "python-3-complex-data-types-in-python",
+        "sno": "3",
+        "module": "Complex Data types in Python",
+        "subtopics": [
+          "Python Lists",
+          "Python Tuple",
+          "Python Sets",
+          "Python Dictionaries",
+          "Python Functions",
+          "Python Lambda",
+          "Python Arrays"
+        ]
+      },
+      {
+        "id": "python-4-oops",
+        "sno": "4",
+        "module": "OOPs",
+        "subtopics": [
+          "Object Oriented Programming",
+          "OOPs Concepts",
+          "Object & Classess",
+          "Class Attributes",
+          "Class Methods",
+          "Static Methods",
+          "Constructors",
+          "Inheritance",
+          "Iterators",
+          "Polymorphism",
+          "Method Overriding",
+          "Method Overloading"
+        ]
+      },
+      {
+        "id": "python-5-pyton-modules-built-in-functions",
+        "sno": "5",
+        "module": "Pyton Modules & Built in functions",
+        "subtopics": [
+          "Python Modules",
+          "Python Built in Functions",
+          "Python Dates",
+          "Python Math",
+          "Python User Input"
+        ]
+      },
+      {
+        "id": "python-6-errors-exceptional-handling",
+        "sno": "6",
+        "module": "Errors & Exceptional handling",
+        "subtopics": [
+          "Python Errors & Exceptions",
+          "try-except Block",
+          "try-finally block"
+        ]
+      },
+      {
+        "id": "python-7-python-in-data-engineering-using-numpy-pandas",
+        "sno": "7",
+        "module": "Python in Data Engineering using Numpy & Pandas",
+        "subtopics": [
+          "Python Libraries",
+          "Numpy",
+          "Pandas",
+          "Panda, Matplotlib & Data Mnaipulation",
+          "Si-kit learn"
+        ]
+      }
+    ],
+    "totalModules": 7,
+    "totalSubtopics": 49
+  },
+  {
+    "subject": "SQL",
+    "modules": [
+      {
+        "id": "sql-1-data-manipulation",
+        "sno": "1",
+        "module": "DATA MANIPULATION",
+        "subtopics": [
+          "SELECT",
+          "ORDER BY",
+          "OFFSET FETCH",
+          "SELECT TOP",
+          "SELECT DISTINCT",
+          "WHERE",
+          "NULL",
+          "AND",
+          "OR",
+          "IN",
+          "BETWEEN",
+          "LIKE",
+          "Column & Table Aliases",
+          "Joins",
+          "INNER JOIN",
+          "LEFT JOIN",
+          "RIGHT JOIN",
+          "FULL OUTER JOIN",
+          "Self Join",
+          "CROSS JOIN",
+          "GROUP BY",
+          "HAVING",
+          "GROUPING SETS",
+          "CUBE",
+          "ROLLUP",
+          "Subquery",
+          "Correlated Subquery",
+          "EXISTS",
+          "ANY",
+          "ALL",
+          "UNION",
+          "INTERSECT",
+          "EXCEPT",
+          "Common Table Expression (CTE)",
+          "Recursive CTE",
+          "INSERT",
+          "INSERT Multiple Rows",
+          "INSERT INTO SELECT",
+          "UPDATE",
+          "UPDATE JOIN",
+          "DELETE",
+          "MERGE",
+          "PIVOT"
+        ]
+      },
+      {
+        "id": "sql-2-data-definition",
+        "sno": "2",
+        "module": "DATA DEFINITION",
+        "subtopics": [
+          "Create New Database",
+          "Drop Database",
+          "Create Schema",
+          "Alter Schema",
+          "Drop Schema",
+          "Create New Table",
+          "Identity Column",
+          "Sequence",
+          "Add Column",
+          "Modify Column",
+          "Drop Column",
+          "Computed Columns",
+          "Rename Table",
+          "Drop Table",
+          "Truncate Table",
+          "Temporary Tables",
+          "Synonym",
+          "SELECT INTO",
+          "PRIMARY KEY",
+          "FOREIGN KEY",
+          "CHECK Constraint",
+          "UNIQUE Constraint",
+          "NOT NULL Constraint"
+        ]
+      },
+      {
+        "id": "sql-3-data-types",
+        "sno": "3",
+        "module": "DATA TYPES",
+        "subtopics": [
+          "Data Types",
+          "BIT",
+          "CHAR",
+          "DATE",
+          "DATETIME2",
+          "DATETIMEOFFSET",
+          "Decimal",
+          "INT",
+          "NCHAR",
+          "NVARCHAR",
+          "TIME",
+          "VARCHAR"
+        ]
+      },
+      {
+        "id": "sql-4-expressions",
+        "sno": "4",
+        "module": "EXPRESSIONS",
+        "subtopics": [
+          "CASE",
+          "COALESCE",
+          "NULLIF"
+        ]
+      },
+      {
+        "id": "sql-5-views",
+        "sno": "5",
+        "module": "VIEWS",
+        "subtopics": [
+          "Creating Views",
+          "Listing Views",
+          "Renaming Views",
+          "Getting View Information",
+          "Removing Views",
+          "Creating Indexed Views"
+        ]
+      },
+      {
+        "id": "sql-6-triggers",
+        "sno": "6",
+        "module": "TRIGGERS",
+        "subtopics": [
+          "Creating After DML Triggers",
+          "Creating INSTEAD OF Triggers",
+          "Creating DDL Triggers",
+          "Disabling Triggers",
+          "Enabling Triggers",
+          "Viewing Definition of Triggers",
+          "Listing All Triggers",
+          "Removing Triggers"
+        ]
+      },
+      {
+        "id": "sql-7-stored-procedures",
+        "sno": "7",
+        "module": "STORED PROCEDURES",
+        "subtopics": [
+          "Stored Procedure Basics",
+          "Parameters",
+          "Variables",
+          "Output Parameters",
+          "BEGIN END",
+          "IF ELSE",
+          "\\",
+          "BREAK",
+          "CONTINUE",
+          "CURSOR",
+          "TRY CATCH",
+          "RAISERROR",
+          "THROW",
+          "Temporary Tables",
+          "Dynamic SQL"
+        ]
+      },
+      {
+        "id": "sql-8-user-defined-functions",
+        "sno": "8",
+        "module": "USER-DEFINED FUNCTIONS",
+        "subtopics": [
+          "Creating Scalar User-Defined Function",
+          "Table Variables",
+          "Creating Table-valued Functions",
+          "Removing User-defined Functions"
+        ]
+      },
+      {
+        "id": "sql-9-built-in-functions",
+        "sno": "9",
+        "module": "Built- in Functions",
+        "subtopics": [
+          "String Functions",
+          "Numeric Functions",
+          "Aggregate Functions",
+          "DateTime Functions",
+          "Advance Functions"
+        ]
+      },
+      {
+        "id": "sql-10-performance",
+        "sno": "10",
+        "module": "Performance",
+        "subtopics": [
+          "Optimization & Perormance Tuning"
+        ]
+      },
+      {
+        "id": "sql-11-dml",
+        "sno": "11",
+        "module": "DML",
+        "subtopics": [
+          "DML"
+        ]
+      }
+    ],
+    "totalModules": 11,
+    "totalSubtopics": 121
+  },
+  {
+    "subject": "AWS AI",
+    "modules": [
+      {
+        "id": "aws-ai-null-aws-bedrock",
+        "sno": "1",
+        "module": "AWS Bedrock",
+        "subtopics": [
+          11
+        ]
+      },
+      {
+        "id": "aws-ai-null-hackerrank-assessment",
+        "sno": "2",
+        "module": "HackerRank Assessment",
+        "subtopics": []
+      }
+    ],
+    "totalModules": 2,
+    "totalSubtopics": 1
+  },
+  {
+    "subject": "Agentic AI",
+    "modules": [
+      {
+        "id": "agentic-ai-null-ai-agents",
+        "sno": "1",
+        "module": "AI Agents",
+        "subtopics": [
+          "Introduction to AI Agents"
+        ]
+      },
+      {
+        "id": "agentic-ai-null-agentic-ai-principles-architecture",
+        "sno": "2",
+        "module": "Agentic AI Principles & Architecture",
+        "subtopics": [
+          "Principles of agentic AI",
+          "Core Architecture of Agentic System"
+        ]
+      },
+      {
+        "id": "agentic-ai-null-agentic-system-frameworks",
+        "sno": "3",
+        "module": "Agentic System Frameworks",
+        "subtopics": [
+          "Agentic System Frameworks",
+          "Agentic System with LangGraph"
+        ]
+      },
+      {
+        "id": "agentic-ai-null-agentic-ai-memory-management",
+        "sno": "4",
+        "module": "Agentic AI Memory Management",
+        "subtopics": [
+          "Memory Management With LangGraph"
+        ]
+      },
+      {
+        "id": "agentic-ai-null-agentic-ai-protocols",
+        "sno": "5",
+        "module": "Agentic AI Protocols",
+        "subtopics": [
+          "Model Context Protocol"
+        ]
+      },
+      {
+        "id": "agentic-ai-null-deploying-agentic-ai-system",
+        "sno": "6",
+        "module": "Deploying Agentic AI system",
+        "subtopics": [
+          "Deploying Agentic AI system"
+        ]
+      },
+      {
+        "id": "agentic-ai-null-hackerrank-assessment",
+        "sno": "7",
+        "module": "HackerRank Assessment",
+        "subtopics": []
+      }
+    ],
+    "totalModules": 7,
+    "totalSubtopics": 8
+  },
+  {
+    "subject": "Azure AI",
+    "modules": [
+      {
+        "id": "azure-ai-null-azure-ai-foundary",
+        "sno": "1",
+        "module": "Azure AI Foundary",
+        "subtopics": [
+          4
+        ]
+      },
+      {
+        "id": "azure-ai-null-hackerrank-assessment",
+        "sno": "2",
+        "module": "HackerRank Assessment",
+        "subtopics": []
+      }
+    ],
+    "totalModules": 2,
+    "totalSubtopics": 1
+  },
+  {
+    "subject": "Data & Insights",
+    "modules": [
+      {
+        "id": "data-insights-null-data-cleaning-preparation",
+        "sno": "1",
+        "module": "Data Cleaning & Preparation",
+        "subtopics": [
+          1
+        ]
+      },
+      {
+        "id": "data-insights-null-data-analysis",
+        "sno": "2",
+        "module": "Data Analysis",
+        "subtopics": [
+          2
+        ]
+      },
+      {
+        "id": "data-insights-null-data-storytelling",
+        "sno": "3",
+        "module": "Data Storytelling",
+        "subtopics": [
+          1
+        ]
+      },
+      {
+        "id": "data-insights-null-power-bi-generating-presenting-insights",
+        "sno": "4",
+        "module": "Power BI- Generating & Presenting Insights",
+        "subtopics": [
+          10
+        ]
+      },
+      {
+        "id": "data-insights-null-hackerrank-assessment",
+        "sno": "5",
+        "module": "HackerRank Assessment",
+        "subtopics": []
+      }
+    ],
+    "totalModules": 5,
+    "totalSubtopics": 4
+  },
+  {
+    "subject": "DataOps",
+    "modules": [
+      {
+        "id": "dataops-null-github-optional",
+        "sno": "1",
+        "module": "GitHUb(Optional)",
+        "subtopics": [
+          1
+        ]
+      },
+      {
+        "id": "dataops-null-containers-docker-kubernetes",
+        "sno": "2",
+        "module": "Containers- Docker/Kubernetes",
+        "subtopics": [
+          2
+        ]
+      },
+      {
+        "id": "dataops-null-orchestration-airflow",
+        "sno": "3",
+        "module": "Orchestration- Airflow",
+        "subtopics": [
+          1
+        ]
+      },
+      {
+        "id": "dataops-null-terraform",
+        "sno": "4",
+        "module": "Terraform",
+        "subtopics": [
+          1
+        ]
+      },
+      {
+        "id": "dataops-null-data-pipelines-etls",
+        "sno": "5",
+        "module": "Data Pipelines- ETLS",
+        "subtopics": [
+          7
+        ]
+      },
+      {
+        "id": "dataops-null-monitoring-grafana-promethus-azure-monitor",
+        "sno": "6",
+        "module": "Monitoring- Grafana, Promethus, Azure Monitor",
+        "subtopics": [
+          3
+        ]
+      },
+      {
+        "id": "dataops-null-compliance-data-masking",
+        "sno": "7",
+        "module": "Compliance- Data Masking",
+        "subtopics": [
+          1
+        ]
+      },
+      {
+        "id": "dataops-null-security",
+        "sno": "8",
+        "module": "Security",
+        "subtopics": [
+          2
+        ]
+      },
+      {
+        "id": "dataops-null-assessment",
+        "sno": "9",
+        "module": "Assessment",
+        "subtopics": []
+      }
+    ],
+    "totalModules": 9,
+    "totalSubtopics": 8
+  }
+]
