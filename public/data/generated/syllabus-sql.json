@@ -2,7 +2,7 @@
   "subject": "SQL",
   "modules": [
     {
-      "id": "sql-1-0-data-manipulation",
+      "id": "sql-1-data-manipulation",
       "sno": "1",
       "module": "DATA MANIPULATION",
       "subtopics": [
@@ -52,7 +52,7 @@
       ]
     },
     {
-      "id": "sql-2-0-data-definition",
+      "id": "sql-2-data-definition",
       "sno": "2",
       "module": "DATA DEFINITION",
       "subtopics": [
@@ -82,7 +82,7 @@
       ]
     },
     {
-      "id": "sql-3-0-data-types",
+      "id": "sql-3-data-types",
       "sno": "3",
       "module": "DATA TYPES",
       "subtopics": [
@@ -101,7 +101,7 @@
       ]
     },
     {
-      "id": "sql-4-0-expressions",
+      "id": "sql-4-expressions",
       "sno": "4",
       "module": "EXPRESSIONS",
       "subtopics": [
@@ -111,7 +111,7 @@
       ]
     },
     {
-      "id": "sql-5-0-views",
+      "id": "sql-5-views",
       "sno": "5",
       "module": "VIEWS",
       "subtopics": [
@@ -124,7 +124,7 @@
       ]
     },
     {
-      "id": "sql-6-0-triggers",
+      "id": "sql-6-triggers",
       "sno": "6",
       "module": "TRIGGERS",
       "subtopics": [
@@ -139,7 +139,7 @@
       ]
     },
     {
-      "id": "sql-7-0-stored-procedures",
+      "id": "sql-7-stored-procedures",
       "sno": "7",
       "module": "STORED PROCEDURES",
       "subtopics": [
@@ -161,7 +161,7 @@
       ]
     },
     {
-      "id": "sql-8-0-user-defined-functions",
+      "id": "sql-8-user-defined-functions",
       "sno": "8",
       "module": "USER-DEFINED FUNCTIONS",
       "subtopics": [
@@ -172,7 +172,7 @@
       ]
     },
     {
-      "id": "sql-9-0-built-in-functions",
+      "id": "sql-9-built-in-functions",
       "sno": "9",
       "module": "Built- in Functions",
       "subtopics": [
@@ -184,7 +184,7 @@
       ]
     },
     {
-      "id": "sql-10-0-performance",
+      "id": "sql-10-performance",
       "sno": "10",
       "module": "Performance",
       "subtopics": [
@@ -192,7 +192,7 @@
       ]
     },
     {
-      "id": "sql-11-0-dml",
+      "id": "sql-11-dml",
       "sno": "11",
       "module": "DML",
       "subtopics": [

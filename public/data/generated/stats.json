@@ -1,5 +1,5 @@
 {
-  "totalCourses": 205,
+  "totalCourses": 208,
   "trainingCourses": 104,
   "globalCourses": 104,
   "categories": 7,
@@ -7,6 +7,7 @@
   "assessments": 65,
   "projects": 23,
   "completedProjects": 23,
+  "syllabusTracks": 7,
   "pythonModules": 7,
   "sqlModules": 11
 }

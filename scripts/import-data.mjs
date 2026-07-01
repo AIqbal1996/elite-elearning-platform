@@ -46,12 +46,42 @@ function normalizeSyllabus(subject, rows) {
   return { subject, modules, totalModules: modules.length, totalSubtopics: modules.reduce((sum, mod) => sum + mod.subtopics.length, 0) };
 }
 
-const pythonSyllabus = normalizeSyllabus('Python', sheetRows(coursesWb, 'Python'));
-const sqlSyllabus = normalizeSyllabus('SQL', sheetRows(coursesWb, 'SQL'));
+const excludedCourseSheets = ['Catalogue', 'Training'];
+
+const syllabi = coursesWb.SheetNames
+  .filter((sheetName) => !excludedCourseSheets.includes(sheetName))
+  .map((sheetName) => normalizeSyllabus(sheetName, sheetRows(coursesWb, sheetName)))
+  .filter((syllabus) => syllabus.modules.length > 0);
+
+const pythonSyllabus = syllabi.find((item) => item.subject === 'Python') || {
+  subject: 'Python',
+  modules: [],
+  totalModules: 0,
+  totalSubtopics: 0
+};
+
+const sqlSyllabus = syllabi.find((item) => item.subject === 'SQL') || {
+  subject: 'SQL',
+  modules: [],
+  totalModules: 0,
+  totalSubtopics: 0
+};
 
 const assessments = sheetRows(assessmentsWb, 'Sheet1').slice(1).flatMap((row, index) => row[0] && row[2] ? [{ id: slugify(`assessment-${index}-${row[0]}-${row[1]}-${row[2]}`), skill: String(row[0]).replace('Python,SQL', 'Python, SQL'), level: cleanLevel(row[1]), testName: row[2] }] : []);
-const pilots = sheetRows(pilotsWb, 'Sheet1').slice(1).flatMap((row, index) => row[2] ? [{ id: slugify(`pilot-${index}-${row[2]}`), techStack: row[0], sno: Number(row[1] || index + 1), useCase: row[2], status: row[3] }] : []);
+const pilots = sheetRows(pilotsWb, 'Sheet1').slice(1).flatMap((row, index) => {
+  if (!row[2]) return [];
 
+  const pageNumber = Number(row[1] || index + 1);
+
+  return [{
+    id: slugify(`pilot-${index}-${row[2]}`),
+    techStack: row[0],
+    sno: pageNumber,
+    pdfPage: pageNumber,
+    useCase: row[2],
+    status: row[3]
+  }];
+});
 const csvWorkbook = XLSX.readFile(path.join(rawDir, 'Courses.csv'));
 const csvRows = XLSX.utils.sheet_to_json(csvWorkbook.Sheets[csvWorkbook.SheetNames[0]], { defval: '' });
 const globalCourses = csvRows.filter((row) => row['Course Name']).map((row, index) => ({ id: slugify(`global-${index}-${row['Course Name']}-${row.Link}`), courseName: row['Course Name'], link: row.Link, durationHr: toNumber(row['Duration(Hr)']), secondaryLink: row.Link_1, source: 'Courses.csv' }));
@@ -76,7 +106,19 @@ catalogue.forEach((item) => {
   if (!path.skills.includes(item.skill)) path.skills.push(item.skill);
 });
 const learningPaths = [...pathsMap.values()].map((path) => ({ ...path, courseCount: courses.filter((course) => course.category === path.category).length, assessmentCount: assessments.filter((a) => path.skills.some((s) => a.skill.toLowerCase().includes(s.toLowerCase().split(' ')[0]))).length }));
-const stats = { totalCourses: courses.length, trainingCourses: training.length, globalCourses: globalCourses.length, categories: learningPaths.length, skills: catalogue.length, assessments: assessments.length, projects: pilots.length, completedProjects: pilots.filter((p) => String(p.status).toLowerCase() === 'completed').length, pythonModules: pythonSyllabus.totalModules, sqlModules: sqlSyllabus.totalModules };
+const stats = {
+  totalCourses: courses.length,
+  trainingCourses: training.length,
+  globalCourses: globalCourses.length,
+  categories: learningPaths.length,
+  skills: catalogue.length,
+  assessments: assessments.length,
+  projects: pilots.length,
+  completedProjects: pilots.filter((p) => String(p.status).toLowerCase() === 'completed').length,
+  syllabusTracks: syllabi.length,
+  pythonModules: pythonSyllabus.totalModules,
+  sqlModules: sqlSyllabus.totalModules
+};
 
 writeJson('catalogue.json', catalogue);
 writeJson('training.json', training);
@@ -84,6 +126,7 @@ writeJson('global-courses.json', globalCourses);
 writeJson('courses.json', courses);
 writeJson('syllabus-python.json', pythonSyllabus);
 writeJson('syllabus-sql.json', sqlSyllabus);
+writeJson('syllabi.json', syllabi);
 writeJson('assessments.json', assessments);
 writeJson('pilots.json', pilots);
 writeJson('learning-paths.json', learningPaths);

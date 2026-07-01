@@ -33,7 +33,13 @@ export default function CoursesPage({ data }) {
       />
       <div className="result-line">Showing <strong>{filteredCourses.length}</strong> courses</div>
       <section className="course-grid">
-        {filteredCourses.map((course) => <CourseCard key={course.id} course={course} />)}
+        {filteredCourses.map((course) => (
+          <CourseCard
+          key={course.id}
+          course={course}
+          globalCourses={data.globalCourses}
+         />
+        ))}
       </section>
     </main>
   );

@@ -11,10 +11,12 @@
   },
   "dependencies": {
     "@vitejs/plugin-react": "latest",
-    "vite": "latest",
+    "lucide-react": "latest",
+    "pdfjs-dist": "^6.1.200",
     "react": "latest",
     "react-dom": "latest",
-    "lucide-react": "latest"
+    "react-pdf": "^10.4.1",
+    "vite": "latest"
   },
   "devDependencies": {
     "xlsx": "latest"

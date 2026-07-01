@@ -1,46 +1,16 @@
 [
   {
-    "id": "advanced-analytics-ai",
-    "category": "Advanced Analytics & AI",
+    "id": "data-architecture-modeling",
+    "category": "Data Architecture & Modeling",
     "capabilities": [
-      "AI Services"
+      "Data Strategy and AI Advisory"
     ],
     "skills": [
-      "Data Science",
-      "AL/Gen AI"
-    ],
-    "courseCount": 0,
-    "assessmentCount": 7
-  },
-  {
-    "id": "bi-visualization",
-    "category": "BI & Visualization",
-    "capabilities": [
-      "Deep Insights & Analytics"
-    ],
-    "skills": [
-      "Power BI",
-      "Tableau",
-      "Looker",
-      "Power Platform",
-      "PowerApps"
-    ],
-    "courseCount": 16,
-    "assessmentCount": 8
-  },
-  {
-    "id": "big-data-distributed-processing",
-    "category": "Big Data & Distributed Processing",
-    "capabilities": [
-      "Data Engineering & Modernization"
-    ],
-    "skills": [
-      "Big Data",
-      "Confluent Kafka",
-      "Airflow + AWS"
+      "Data Architecture",
+      "Data Modelling"
     ],
     "courseCount": 2,
-    "assessmentCount": 0
+    "assessmentCount": 7
   },
   {
     "id": "cloud-data-stacks",
@@ -53,21 +23,22 @@
       "Azure Data Stack",
       "GCP Data Stack"
     ],
-    "courseCount": 93,
+    "courseCount": 8,
     "assessmentCount": 12
   },
   {
-    "id": "data-architecture-modeling",
-    "category": "Data Architecture & Modeling",
+    "id": "big-data-distributed-processing",
+    "category": "Big Data & Distributed Processing",
     "capabilities": [
-      "Data Strategy and AI Advisory"
+      "Data Engineering & Modernization"
     ],
     "skills": [
-      "Data Architecture",
-      "Data Modelling"
+      "Big Data",
+      "Confluent Kafka",
+      "Airflow + AWS"
     ],
-    "courseCount": 87,
-    "assessmentCount": 7
+    "courseCount": 0,
+    "assessmentCount": 0
   },
   {
     "id": "data-platforms-warehouses",
@@ -83,8 +54,24 @@
       "SQL",
       "Azure DataBricks"
     ],
-    "courseCount": 28,
+    "courseCount": 20,
     "assessmentCount": 20
+  },
+  {
+    "id": "bi-visualization",
+    "category": "BI & Visualization",
+    "capabilities": [
+      "Deep Insights & Analytics"
+    ],
+    "skills": [
+      "Power BI",
+      "Tableau",
+      "Looker",
+      "Power Platform",
+      "PowerApps"
+    ],
+    "courseCount": 12,
+    "assessmentCount": 8
   },
   {
     "id": "programming-query-languages",
@@ -99,7 +86,20 @@
       "Spark & Scala",
       "pySpark"
     ],
-    "courseCount": 43,
+    "courseCount": 86,
     "assessmentCount": 26
+  },
+  {
+    "id": "advanced-analytics-ai",
+    "category": "Advanced Analytics & AI",
+    "capabilities": [
+      "AI Services"
+    ],
+    "skills": [
+      "Data Science",
+      "AL/Gen AI"
+    ],
+    "courseCount": 10,
+    "assessmentCount": 7
   }
 ]

@@ -2,7 +2,7 @@
   "subject": "Python",
   "modules": [
     {
-      "id": "python-1-0-introduction-to-python-datatypes-variables-operators",
+      "id": "python-1-introduction-to-python-datatypes-variables-operators",
       "sno": "1",
       "module": "Introduction to Python Datatypes, Variables & Operators",
       "subtopics": [
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "id": "python-2-0-python-strings-conditional-statements-loops",
+      "id": "python-2-python-strings-conditional-statements-loops",
       "sno": "2",
       "module": "Python Strings, conditional statements & Loops",
       "subtopics": [
@@ -33,7 +33,7 @@
       ]
     },
     {
-      "id": "python-3-0-complex-data-types-in-python",
+      "id": "python-3-complex-data-types-in-python",
       "sno": "3",
       "module": "Complex Data types in Python",
       "subtopics": [
@@ -47,7 +47,7 @@
       ]
     },
     {
-      "id": "python-4-0-oops",
+      "id": "python-4-oops",
       "sno": "4",
       "module": "OOPs",
       "subtopics": [
@@ -66,7 +66,7 @@
       ]
     },
     {
-      "id": "python-5-0-pyton-modules-built-in-functions",
+      "id": "python-5-pyton-modules-built-in-functions",
       "sno": "5",
       "module": "Pyton Modules & Built in functions",
       "subtopics": [
@@ -78,7 +78,7 @@
       ]
     },
     {
-      "id": "python-6-0-errors-exceptional-handling",
+      "id": "python-6-errors-exceptional-handling",
       "sno": "6",
       "module": "Errors & Exceptional handling",
       "subtopics": [
@@ -88,7 +88,7 @@
       ]
     },
     {
-      "id": "python-7-0-python-in-data-engineering-using-numpy-pandas",
+      "id": "python-7-python-in-data-engineering-using-numpy-pandas",
       "sno": "7",
       "module": "Python in Data Engineering using Numpy & Pandas",
       "subtopics": [

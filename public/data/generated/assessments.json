@@ -1,390 +1,390 @@
 [
   {
-    "id": "assessment-2-python-basic-dataengg-hdu-python-assessment",
+    "id": "assessment-0-python-basic-dataengg-hdu-python-assessment",
     "skill": "Python",
     "level": "Basic",
     "testName": "DataEngg_HDU_Python_Assessment"
   },
   {
-    "id": "assessment-3-python-intermediate-data-engg-python-intermediate-assessment",
+    "id": "assessment-1-python-intermediate-data-engg-python-intermediate-assessment",
     "skill": "Python",
     "level": "Intermediate",
     "testName": "Data Engg_Python Intermediate assessment"
   },
   {
-    "id": "assessment-4-python-advanced-data-engineering-python-final-assessment",
+    "id": "assessment-2-python-advanced-data-engineering-python-final-assessment",
     "skill": "Python",
     "level": "Advanced",
     "testName": "Data Engineering_Python_Final Assessment"
   },
   {
-    "id": "assessment-5-sql-basic-dataengg-hdu-sql-basic-assessment",
+    "id": "assessment-3-sql-basic-dataengg-hdu-sql-basic-assessment",
     "skill": "SQL",
     "level": "Basic",
     "testName": "DataEngg_HDU_SQL_Basic_Assessment"
   },
   {
-    "id": "assessment-6-sql-intermediate-dataengg-hdu-sql-intermediate-assessment",
+    "id": "assessment-4-sql-intermediate-dataengg-hdu-sql-intermediate-assessment",
     "skill": "SQL",
     "level": "Intermediate",
     "testName": "DataEngg_HDU_SQL_Intermediate_Assessment"
   },
   {
-    "id": "assessment-7-sql-advanced-dataengg-hdu-sql-advanced-assessment",
+    "id": "assessment-5-sql-advanced-dataengg-hdu-sql-advanced-assessment",
     "skill": "SQL",
     "level": "Advanced",
     "testName": "DataEngg_HDU_SQL_Advanced_Assessment"
   },
   {
-    "id": "assessment-8-sql-advanced-data-engg-data-storage-sql-proficiency-assessment",
+    "id": "assessment-6-sql-advanced-data-engg-data-storage-sql-proficiency-assessment",
     "skill": "SQL",
     "level": "Advanced",
     "testName": "Data Engg_Data_Storage_SQL_Proficiency_Assessment"
   },
   {
-    "id": "assessment-9-python-sql-basic-ers-de-data-engg-fresher-python-sql-assessment",
+    "id": "assessment-7-python-sql-basic-ers-de-data-engg-fresher-python-sql-assessment",
     "skill": "Python, SQL",
     "level": "Basic",
     "testName": "ERS_DE_Data Engg_Fresher_Python & SQL_Assessment"
   },
   {
-    "id": "assessment-10-python-sql-basic-dataengg-hdu-campus-drive-python-sql-assessment",
+    "id": "assessment-8-python-sql-basic-dataengg-hdu-campus-drive-python-sql-assessment",
     "skill": "Python, SQL",
     "level": "Basic",
     "testName": "DataEngg_HDU_Campus Drive_Python_SQL_Assessment"
   },
   {
-    "id": "assessment-11-python-sql-intermediate-dataengg-hdu-python-sql-intermediate-assessment",
+    "id": "assessment-9-python-sql-intermediate-dataengg-hdu-python-sql-intermediate-assessment",
     "skill": "Python, SQL",
     "level": "Intermediate",
     "testName": "DataEngg__HDU_Python_SQL_Intermediate_Assessment"
   },
   {
-    "id": "assessment-12-python-sql-advanced-dataengg-hdu-python-sql-final-assessment",
+    "id": "assessment-10-python-sql-advanced-dataengg-hdu-python-sql-final-assessment",
     "skill": "Python, SQL",
     "level": "Advanced",
     "testName": "DataEngg__HDU_Python_SQL_final_Assessment"
   },
   {
-    "id": "assessment-13-python-sql-advanced-dataengg-hdu-python-sql-proficiency-assessment",
+    "id": "assessment-11-python-sql-advanced-dataengg-hdu-python-sql-proficiency-assessment",
     "skill": "Python, SQL",
     "level": "Advanced",
     "testName": "DataEngg__HDU_Python_SQL_Proficiency_Assessment"
   },
   {
-    "id": "assessment-14-python-sql-advanced-dataengg-hdu-fresherplus-python-sql-assessment-latest",
+    "id": "assessment-12-python-sql-advanced-dataengg-hdu-fresherplus-python-sql-assessment-latest",
     "skill": "Python, SQL",
     "level": "Advanced",
     "testName": "DataEngg_HDU_FresherPlus_Python_SQL_Assessment_Latest"
   },
   {
-    "id": "assessment-15-python-sql-advanced-ers-de-fresherplus-data-engg-python-assessment",
+    "id": "assessment-13-python-sql-advanced-ers-de-fresherplus-data-engg-python-assessment",
     "skill": "Python, SQL",
     "level": "Advanced",
     "testName": "ERS_DE_FresherPlus_Data_Engg_Python_Assessment"
   },
   {
-    "id": "assessment-16-aws-basic-dataengg-hdu-aws-basic-assessment",
+    "id": "assessment-14-aws-basic-dataengg-hdu-aws-basic-assessment",
     "skill": "AWS",
     "level": "Basic",
     "testName": "DataEngg_HDU_AWS_Basic_Assessment"
   },
   {
-    "id": "assessment-17-aws-intermediate-dataengg-hdu-aws-intermediate-assessment",
+    "id": "assessment-15-aws-intermediate-dataengg-hdu-aws-intermediate-assessment",
     "skill": "AWS",
     "level": "Intermediate",
     "testName": "DataEngg_HDU_AWS_Intermediate_Assessment"
   },
   {
-    "id": "assessment-18-aws-advanced-dataengg-hdu-aws-advance-assessment",
+    "id": "assessment-16-aws-advanced-dataengg-hdu-aws-advance-assessment",
     "skill": "AWS",
     "level": "Advanced",
     "testName": "DataEngg_HDU_AWS_Advance Assessment"
   },
   {
-    "id": "assessment-19-aws-advanced-dataengg-hdu-aws-proficiency-assessment",
+    "id": "assessment-17-aws-advanced-dataengg-hdu-aws-proficiency-assessment",
     "skill": "AWS",
     "level": "Advanced",
     "testName": "DataEngg_HDU_AWS_Proficiency assessment"
   },
   {
-    "id": "assessment-20-azure-basic-dataengg-hdu-azure-basic-assessment",
+    "id": "assessment-18-azure-basic-dataengg-hdu-azure-basic-assessment",
     "skill": "Azure",
     "level": "Basic",
     "testName": "DataEngg_HDU_Azure_Basic_Assessment"
   },
   {
-    "id": "assessment-21-azure-intermediate-dataengg-hdu-azure-intermediate-assessment",
+    "id": "assessment-19-azure-intermediate-dataengg-hdu-azure-intermediate-assessment",
     "skill": "Azure",
     "level": "Intermediate",
     "testName": "DataEngg_HDU_Azure_Intermediate_Assessment"
   },
   {
-    "id": "assessment-22-azure-advanced-dataengg-hdu-azure-advanced-assessment",
+    "id": "assessment-20-azure-advanced-dataengg-hdu-azure-advanced-assessment",
     "skill": "Azure",
     "level": "Advanced",
     "testName": "DataEngg_HDU_Azure_Advanced_Assessment"
   },
   {
-    "id": "assessment-23-azure-advanced-ers-azure-data-engg-proficiency-test",
+    "id": "assessment-21-azure-advanced-ers-azure-data-engg-proficiency-test",
     "skill": "Azure",
     "level": "Advanced",
     "testName": "ERS_Azure_Data_Engg_Proficiency_Test"
   },
   {
-    "id": "assessment-24-gcp-basic-dataengg-hdu-gcp-basic-assessment",
+    "id": "assessment-22-gcp-basic-dataengg-hdu-gcp-basic-assessment",
     "skill": "GCP",
     "level": "Basic",
     "testName": "DataEngg_HDU_GCP_Basic_Assessment"
   },
   {
-    "id": "assessment-25-gcp-intermediate-dataengg-hdu-gcp-intermediate-assessment",
+    "id": "assessment-23-gcp-intermediate-dataengg-hdu-gcp-intermediate-assessment",
     "skill": "GCP",
     "level": "Intermediate",
     "testName": "DataEngg_HDU_GCP_intermediate_Assessment"
   },
   {
-    "id": "assessment-26-gcp-advanced-dataengg-hdu-gcp-advanced-assessment",
+    "id": "assessment-24-gcp-advanced-dataengg-hdu-gcp-advanced-assessment",
     "skill": "GCP",
     "level": "Advanced",
     "testName": "DataEngg_HDU_GCP_Advanced_Assessment"
   },
   {
-    "id": "assessment-27-datascience-basic-dataengg-hdu-datascience-basic-assessment",
+    "id": "assessment-25-datascience-basic-dataengg-hdu-datascience-basic-assessment",
     "skill": "DataScience",
     "level": "Basic",
     "testName": "DataEngg_HDU_DataScience_Basic_Assessment"
   },
   {
-    "id": "assessment-28-datascience-intermediate-dataengg-hdu-datascience-intermediate-assessment",
+    "id": "assessment-26-datascience-intermediate-dataengg-hdu-datascience-intermediate-assessment",
     "skill": "DataScience",
     "level": "Intermediate",
     "testName": "DataEngg_HDU_DataScience_Intermediate_Assessment"
   },
   {
-    "id": "assessment-29-datascience-advanced-dataengg-hdu-datascience-proficiency-assessment",
+    "id": "assessment-27-datascience-advanced-dataengg-hdu-datascience-proficiency-assessment",
     "skill": "DataScience",
     "level": "Advanced",
     "testName": "DataEngg_HDU_DataScience_Proficiency_Assessment"
   },
   {
-    "id": "assessment-30-powerbi-basic-dataengg-hdu-powerbi-basic-assessment",
+    "id": "assessment-28-powerbi-basic-dataengg-hdu-powerbi-basic-assessment",
     "skill": "PowerBI",
     "level": "Basic",
     "testName": "DataEngg_HDU_PowerBI_Basic_Assessment"
   },
   {
-    "id": "assessment-31-powerbi-intermediate-dataengg-hdu-powerbi-intermediate-assessment",
+    "id": "assessment-29-powerbi-intermediate-dataengg-hdu-powerbi-intermediate-assessment",
     "skill": "PowerBI",
     "level": "Intermediate",
     "testName": "DataEngg_HDU_PowerBI_Intermediate_Assessment"
   },
   {
-    "id": "assessment-32-powerbi-advanced-dataengg-hdu-powerbi-proficiency-assessment",
+    "id": "assessment-30-powerbi-advanced-dataengg-hdu-powerbi-proficiency-assessment",
     "skill": "PowerBI",
     "level": "Advanced",
     "testName": "DataEngg_HDU_PowerBI_Proficiency_Assessment"
   },
   {
-    "id": "assessment-33-powerbi-advanced-dataengg-hdu-powerbi-advanced-assessment",
+    "id": "assessment-31-powerbi-advanced-dataengg-hdu-powerbi-advanced-assessment",
     "skill": "PowerBI",
     "level": "Advanced",
     "testName": "DataEngg_HDU_PowerBI_Advanced_Assessment"
   },
   {
-    "id": "assessment-34-tableau-basic-dataengg-hdu-tableau-basic-assessment",
+    "id": "assessment-32-tableau-basic-dataengg-hdu-tableau-basic-assessment",
     "skill": "Tableau",
     "level": "Basic",
     "testName": "DataEngg_HDU_Tableau_Basic_Assessment"
   },
   {
-    "id": "assessment-35-tableau-intermediate-dataengg-hdu-tableau-intermediate-assessment",
+    "id": "assessment-33-tableau-intermediate-dataengg-hdu-tableau-intermediate-assessment",
     "skill": "Tableau",
     "level": "Intermediate",
     "testName": "DataEngg_HDU_Tableau_Intermediate_Assessment"
   },
   {
-    "id": "assessment-36-tableau-advanced-dataengg-hdu-tableau-proficiency-assessment",
+    "id": "assessment-34-tableau-advanced-dataengg-hdu-tableau-proficiency-assessment",
     "skill": "Tableau",
     "level": "Advanced",
     "testName": "DataEngg_HDU_Tableau_Proficiency_Assessment"
   },
   {
-    "id": "assessment-37-tableau-advanced-dataengg-hdu-tableau-advanced-assessment",
+    "id": "assessment-35-tableau-advanced-dataengg-hdu-tableau-advanced-assessment",
     "skill": "Tableau",
     "level": "Advanced",
     "testName": "DataEngg_HDU_Tableau_Advanced_Assessment"
   },
   {
-    "id": "assessment-38-oracledeveloper-basic-dataengg-hdu-oracledeveloper-basic-assessment",
+    "id": "assessment-36-oracledeveloper-basic-dataengg-hdu-oracledeveloper-basic-assessment",
     "skill": "OracleDeveloper",
     "level": "Basic",
     "testName": "DataEngg_HDU_OracleDeveloper_Basic_Assessment"
   },
   {
-    "id": "assessment-39-oracledeveloper-intermediate-dataengg-hdu-oracledeveloper-intermediate-assessment",
+    "id": "assessment-37-oracledeveloper-intermediate-dataengg-hdu-oracledeveloper-intermediate-assessment",
     "skill": "OracleDeveloper",
     "level": "Intermediate",
     "testName": "DataEngg_HDU_OracleDeveloper_Intermediate_Assessment"
   },
   {
-    "id": "assessment-40-oracledeveloper-advanced-dataengg-hdu-oracledeveloper-advanced-assessment",
+    "id": "assessment-38-oracledeveloper-advanced-dataengg-hdu-oracledeveloper-advanced-assessment",
     "skill": "OracleDeveloper",
     "level": "Advanced",
     "testName": "DataEngg_HDU_OracleDeveloper_Advanced_Assessment"
   },
   {
-    "id": "assessment-41-nosql-baisc-dataengg-hdu-nosql-basic-assessment",
+    "id": "assessment-39-nosql-baisc-dataengg-hdu-nosql-basic-assessment",
     "skill": "NOSQL",
     "level": "Basic",
     "testName": "DataEngg_HDU_NoSql_Basic_Assessment"
   },
   {
-    "id": "assessment-42-nosql-intermediate-dataengg-hdu-nosql-intermediate-assessment",
+    "id": "assessment-40-nosql-intermediate-dataengg-hdu-nosql-intermediate-assessment",
     "skill": "NoSql",
     "level": "Intermediate",
     "testName": "DataEngg_HDU_NoSql_Intermediate_Assessment"
   },
   {
-    "id": "assessment-43-nosql-advanced-dataengg-hdu-nosql-advanced-assessment",
+    "id": "assessment-41-nosql-advanced-dataengg-hdu-nosql-advanced-assessment",
     "skill": "NOSQL",
     "level": "Advanced",
     "testName": "DataEngg_HDU_NOSQL_Advanced_Assessment"
   },
   {
-    "id": "assessment-44-etl-basic-dataengg-hdu-etl-basic-assessment",
+    "id": "assessment-42-etl-basic-dataengg-hdu-etl-basic-assessment",
     "skill": "ETL",
     "level": "Basic",
     "testName": "DataEngg_HDU_ETL_Basic_Assessment"
   },
   {
-    "id": "assessment-45-etl-intermediate-dataengg-hdu-etl-intermediate-assessment",
+    "id": "assessment-43-etl-intermediate-dataengg-hdu-etl-intermediate-assessment",
     "skill": "ETL",
     "level": "Intermediate",
     "testName": "DataEngg_HDU_ETL_Intermediate_Assessment"
   },
   {
-    "id": "assessment-46-etl-intermediate-dataengg-etl-intermediate-assessment",
+    "id": "assessment-44-etl-intermediate-dataengg-etl-intermediate-assessment",
     "skill": "ETL",
     "level": "Intermediate",
     "testName": "DataEngg_ETL_Intermediate_Assessment"
   },
   {
-    "id": "assessment-47-etl-advanced-dataengg-hdu-etl-advanced-assessment",
+    "id": "assessment-45-etl-advanced-dataengg-hdu-etl-advanced-assessment",
     "skill": "ETL",
     "level": "Advanced",
     "testName": "DataEngg_HDU_ETL_Advanced_Assessment"
   },
   {
-    "id": "assessment-49-pyspark-intermediate-dataengg-hdu-pyspark-intermediate-assessment",
+    "id": "assessment-47-pyspark-intermediate-dataengg-hdu-pyspark-intermediate-assessment",
     "skill": "PySpark",
     "level": "Intermediate",
     "testName": "DataEngg_HDU_PySpark_Intermediate_Assessment"
   },
   {
-    "id": "assessment-50-pyspark-advanced-dataengg-hdu-pyspark-advanced-assessment",
+    "id": "assessment-48-pyspark-advanced-dataengg-hdu-pyspark-advanced-assessment",
     "skill": "PySpark",
     "level": "Advanced",
     "testName": "DataEngg_HDU_PySpark_Advanced_Assessment"
   },
   {
-    "id": "assessment-51-data-stage-basic-hcl-ers-data-engineering-data-stage-pre",
+    "id": "assessment-49-data-stage-basic-hcl-ers-data-engineering-data-stage-pre",
     "skill": "Data Stage",
     "level": "Basic",
     "testName": "HCL ERS Data Engineering _Data Stage_Pre"
   },
   {
-    "id": "assessment-52-teradata-basic-dataengg-hdu-teradata-assessment",
+    "id": "assessment-50-teradata-basic-dataengg-hdu-teradata-assessment",
     "skill": "Teradata",
     "level": "Basic",
     "testName": "DataEngg_HDU_Teradata_assessment"
   },
   {
-    "id": "assessment-53-databricks-intermediate-dataengg-hdu-databricks-intermediate-assessment",
+    "id": "assessment-51-databricks-intermediate-dataengg-hdu-databricks-intermediate-assessment",
     "skill": "Databricks",
     "level": "Intermediate",
     "testName": "DataEngg_HDU_Databricks_Intermediate_Assessment"
   },
   {
-    "id": "assessment-54-databricks-pyspark-intermediate-dataengg-hdu-databricks-pyspark-intermediate-assessment",
+    "id": "assessment-52-databricks-pyspark-intermediate-dataengg-hdu-databricks-pyspark-intermediate-assessment",
     "skill": "Databricks & PySpark",
     "level": "Intermediate",
     "testName": "DataEngg_HDU_Databricks&PySpark_Intermediate_Assessment"
   },
   {
-    "id": "assessment-57-dba-intermediate-dataengg-oracle-dba-intermediate-assessment",
+    "id": "assessment-55-dba-intermediate-dataengg-oracle-dba-intermediate-assessment",
     "skill": "DBA",
     "level": "Intermediate",
     "testName": "DataEngg_Oracle_DBA_Intermediate_Assessment"
   },
   {
-    "id": "assessment-58-gen-ai-assessment-gcp-basic-ers-data-engg-gen-ai-assessment-gcp",
+    "id": "assessment-56-gen-ai-assessment-gcp-basic-ers-data-engg-gen-ai-assessment-gcp",
     "skill": "Gen AI Assessment -GCP",
     "level": "Basic",
     "testName": "ERS_Data Engg_Gen AI Assessment -GCP"
   },
   {
-    "id": "assessment-59-genai-basic-dataengg-hdu-genai-basic-assessment",
+    "id": "assessment-57-genai-basic-dataengg-hdu-genai-basic-assessment",
     "skill": "GENAI",
     "level": "Basic",
     "testName": "DataEngg_HDU_GENAI_Basic_Assessment"
   },
   {
-    "id": "assessment-60-genai-intermediate-dataengg-hdu-genai-basic-intermediate",
+    "id": "assessment-58-genai-intermediate-dataengg-hdu-genai-basic-intermediate",
     "skill": "GENAI",
     "level": "Intermediate",
     "testName": "DataEngg_HDU_GENAI_Basic_Intermediate"
   },
   {
-    "id": "assessment-61-snowflake-basic-dataengg-snowflake-basic-assessment",
+    "id": "assessment-59-snowflake-basic-dataengg-snowflake-basic-assessment",
     "skill": "Snowflake",
     "level": "Basic",
     "testName": "DataEngg_Snowflake_Basic_Assessment"
   },
   {
-    "id": "assessment-62-snowflake-intermediate-dataengg-snowflake-intermediate-assessment",
+    "id": "assessment-60-snowflake-intermediate-dataengg-snowflake-intermediate-assessment",
     "skill": "Snowflake",
     "level": "Intermediate",
     "testName": "DataEngg_Snowflake_Intermediate_Assessment"
   },
   {
-    "id": "assessment-63-agentic-ai-none-dataengg-hdu-agentic-ai-assessment",
+    "id": "assessment-61-agentic-ai-null-dataengg-hdu-agentic-ai-assessment",
     "skill": "Agentic AI",
     "level": "Unknown",
     "testName": "DataEngg_HDU_Agentic AI Assessment"
   },
   {
-    "id": "assessment-64-mdm-none-semarchy-xdm",
+    "id": "assessment-62-mdm-null-semarchy-xdm",
     "skill": "MDM",
     "level": "Unknown",
     "testName": "Semarchy Xdm"
   },
   {
-    "id": "assessment-65-mdm-none-reltio",
+    "id": "assessment-63-mdm-null-reltio",
     "skill": "MDM",
     "level": "Unknown",
     "testName": "Reltio"
   },
   {
-    "id": "assessment-66-mdm-none-profisee",
+    "id": "assessment-64-mdm-null-profisee",
     "skill": "MDM",
     "level": "Unknown",
     "testName": "Profisee"
   },
   {
-    "id": "assessment-67-mdm-none-data-architect",
+    "id": "assessment-65-mdm-null-data-architect",
     "skill": "MDM",
     "level": "Unknown",
     "testName": "Data Architect"
   },
   {
-    "id": "assessment-68-mlops-none-dataengg-hdu-mlops-basic-intermediate",
+    "id": "assessment-66-mlops-null-dataengg-hdu-mlops-basic-intermediate",
     "skill": "MLOPS",
     "level": "Unknown",
     "testName": "DataEngg_HDU_Mlops_Basic_Intermediate"
   },
   {
-    "id": "assessment-69-n8n-none-data-engg-hdu-n8n-basic-intermediate-assessment",
+    "id": "assessment-67-n8n-null-data-engg-hdu-n8n-basic-intermediate-assessment",
     "skill": "N8N",
     "level": "Unknown",
     "testName": "Data Engg_HDU_n8n_Basic_Intermediate assessment"
